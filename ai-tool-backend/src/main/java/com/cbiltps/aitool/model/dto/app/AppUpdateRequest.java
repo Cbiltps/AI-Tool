@@ -35,9 +35,14 @@ public class AppUpdateRequest implements Serializable {
     private String appIcon;
 
     /**
-     * 应用类型（0-得分类，1-测评类）
+     * 应用类型
      */
     private Integer appType;
+
+    /**
+     * 应用链接
+     */
+    private String appLink;
 
     /**
      * 审核状态：0-待审核, 1-通过, 2-拒绝

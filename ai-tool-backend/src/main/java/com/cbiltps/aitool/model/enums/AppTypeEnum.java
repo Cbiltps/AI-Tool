@@ -13,9 +13,20 @@ import java.util.stream.Collectors;
  * @from 
  */
 public enum AppTypeEnum {
-
-    SCORE("得分类", 0),
-    TEST("测评类", 1);
+    VIDEO("AI视频工具", 13),
+    MODEL("AI训练模型", 12),
+    FRAMEWORK("AI开发框架", 11),
+    LEARNING("AI学习网站", 10),
+    PROMPT("AI提示指令", 9),
+    CONTENT_DETECTION("AI内容检测", 8),
+    OFFICE("AI办公工具", 7),
+    CHAT("AI对话聊天", 6),
+    CODING("AI编程工具", 5),
+    DESIGN("AI设计工具", 4),
+    AUDIO("AI音频工具", 3),
+    IMAGE("AI图像工具", 2),
+    WRITING("AI写作工具", 1),
+    POPULAR("AI热门网址", 0);
 
     private final String text;
 

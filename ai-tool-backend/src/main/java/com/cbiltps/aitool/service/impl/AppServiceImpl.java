@@ -8,6 +8,7 @@ import com.cbiltps.aitool.common.ErrorCode;
 import com.cbiltps.aitool.constant.CommonConstant;
 import com.cbiltps.aitool.exception.ThrowUtils;
 import com.cbiltps.aitool.mapper.AppMapper;
+import com.cbiltps.aitool.model.dto.app.AppAddRequest;
 import com.cbiltps.aitool.model.dto.app.AppQueryRequest;
 import com.cbiltps.aitool.model.entity.App;
 import com.cbiltps.aitool.model.entity.User;
@@ -56,6 +57,7 @@ public class AppServiceImpl extends ServiceImpl<AppMapper, App> implements AppSe
         String appName = app.getAppName();
         String appDesc = app.getAppDesc();
         Integer appType = app.getAppType();
+        String appLink = app.getAppLink();
         Integer reviewStatus = app.getReviewStatus();
 
         // 创建数据时，参数不能为空
@@ -63,6 +65,7 @@ public class AppServiceImpl extends ServiceImpl<AppMapper, App> implements AppSe
             // 补充校验规则
             ThrowUtils.throwIf(StringUtils.isBlank(appName), ErrorCode.PARAMS_ERROR, "应用名称不能为空");
             ThrowUtils.throwIf(StringUtils.isBlank(appDesc), ErrorCode.PARAMS_ERROR, "应用描述不能为空");
+            ThrowUtils.throwIf(StringUtils.isBlank(appLink), ErrorCode.PARAMS_ERROR, "应用链接不能为空");
             AppTypeEnum appTypeEnum = AppTypeEnum.getEnumByValue(appType);
             ThrowUtils.throwIf(appTypeEnum == null, ErrorCode.PARAMS_ERROR, "应用类别非法");
         }
@@ -150,7 +153,7 @@ public class AppServiceImpl extends ServiceImpl<AppMapper, App> implements AppSe
             user = userService.getById(userId);
         }
         UserVO userVO = userService.getUserVO(user);
-        appVO.setUser(userVO);
+//        appVO.setUser(userVO);
         // endregion
         return appVO;
     }
@@ -194,5 +197,4 @@ public class AppServiceImpl extends ServiceImpl<AppMapper, App> implements AppSe
         appVOPage.setRecords(appVOList);
         return appVOPage;
     }
-
 }

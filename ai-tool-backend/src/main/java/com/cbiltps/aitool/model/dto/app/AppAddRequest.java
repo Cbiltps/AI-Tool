@@ -29,9 +29,14 @@ public class AppAddRequest implements Serializable {
     private String appIcon;
 
     /**
-     * 应用类型（0-得分类，1-测评类）
+     * 应用类型
      */
     private Integer appType;
+
+    /**
+     * 应用链接
+     */
+    private String appLink;
 
     private static final long serialVersionUID = 1L;
 }
