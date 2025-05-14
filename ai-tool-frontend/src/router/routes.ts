@@ -18,7 +18,7 @@ export const routes: Array<RouteRecordRaw> = [
   },
   {
     path: "/add/app",
-    name: "创建应用",
+    name: "创建链接",
     component: AddAppPage,
   },
   {
@@ -32,7 +32,7 @@ export const routes: Array<RouteRecordRaw> = [
   },
   {
     path: "/app/detail/:id",
-    name: "应用详情页",
+    name: "链接详情页",
     props: true,
     component: AppDetailPage,
     meta: {
@@ -49,7 +49,7 @@ export const routes: Array<RouteRecordRaw> = [
   },
   {
     path: "/admin/app",
-    name: "应用管理",
+    name: "链接管理",
     component: AdminAppPage,
     meta: {
       access: ACCESS_ENUM.ADMIN,

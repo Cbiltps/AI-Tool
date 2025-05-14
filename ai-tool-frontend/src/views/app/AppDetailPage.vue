@@ -5,11 +5,9 @@
         <a-col flex="auto" class="content-wrapper">
           <h2>{{ data.appName }}</h2>
           <p>{{ data.appDesc }}</p>
-          <p>应用类型：{{ APP_TYPE_MAP[data.appType] }}</p>
-          <p>评分策略：{{ APP_SCORING_STRATEGY_MAP[data.scoringStrategy] }}</p>
           <p>
             <a-space>
-              作者：
+              标签建立者：
               <div :style="{ display: 'flex', alignItems: 'center' }">
                 <a-avatar
                   :size="24"
@@ -17,7 +15,7 @@
                   :style="{ marginRight: '8px' }"
                 />
                 <a-typography-text
-                >{{ data.user?.userName ?? "无名" }}
+                  >{{ data.user?.userName ?? "无名" }}
                 </a-typography-text>
               </div>
             </a-space>
@@ -26,16 +24,8 @@
             创建时间：{{ dayjs(data.createTime).format("YYYY-MM-DD HH:mm:ss") }}
           </p>
           <a-space size="medium">
-            <a-button type="primary" :href="`/answer/do/${id}`"
-            >开始答题
-            </a-button>
+            <a-button type="primary" :href="data.appLink">点击体验 </a-button>
             <a-button @click="doShare">分享应用</a-button>
-            <a-button v-if="isMy" :href="`/add/question/${id}`"
-            >设置题目
-            </a-button>
-            <a-button v-if="isMy" :href="`/add/scoring_result/${id}`"
-            >设置评分
-            </a-button>
             <a-button v-if="isMy" :href="`/add/app/${id}`">修改应用</a-button>
           </a-space>
         </a-col>
@@ -56,17 +46,20 @@ import message from "@arco-design/web-vue/es/message";
 import { useRouter } from "vue-router";
 import { dayjs } from "@arco-design/web-vue/es/_utils/date";
 import { useLoginUserStore } from "@/store/userStore";
-import { APP_SCORING_STRATEGY_MAP, APP_TYPE_MAP } from "@/constant/app";
 import ShareModal from "@/components/ShareModal.vue";
 
 interface Props {
   id: string;
+  appLink: string;
 }
 
 const props = withDefaults(defineProps<Props>(), {
   id: () => {
     return "";
   },
+  // appLink: () => {
+  //   return "";
+  // },
 });
 
 const router = useRouter();

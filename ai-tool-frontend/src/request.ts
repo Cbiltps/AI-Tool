@@ -2,7 +2,7 @@ import axios from "axios";
 import { Message } from "@arco-design/web-vue";
 
 const DEV_BASE_URL = "http://localhost:8103";
-const PROD_BASE_URL = "http://115.190.99.48:8125";
+const PROD_BASE_URL = "http://115.190.99.48:8126";
 
 const myAxios = axios.create({
   baseURL: DEV_BASE_URL,
