@@ -1,0 +1,3294 @@
+[
+    {
+        "title": "热门网址",
+        "list": [
+            {
+                "h_title": "ChatGPT",
+                "text": "OpenAI旗下AI对话工具",
+                "url": "https://chat.openai.com/",
+                "imageurl": "./iconsimage/chatgpt-icon.png"
+            },
+            {
+                "h_title": "Midjourney",
+                "text": "AI图像和插画生成工具",
+                "url": "https://midjourney.com/",
+                "imageurl": "./iconsimage/midjourney-icon.png"
+            },
+            {
+                "h_title": "GPT-4",
+                "text": "OpenAI旗下最新的GPT-4模型",
+                "url": "https://openai.com/product/gpt-4",
+                "imageurl": "./iconsimage/openai-gpt-model.png"
+            },
+            {
+                "h_title": "Bing新必应",
+                "text": "微软推出的新版结合了ChatGPT功能的必应",
+                "url": "https://www.bing.com/",
+                "imageurl": "./iconsimage/new-bing-icon.png"
+            },
+            {
+                "h_title": "文心一言",
+                "text": "百度推出的基于文心大模型的AI对话互动工具",
+                "url": "https://yiyan.baidu.com/",
+                "imageurl": "./iconsimage/baidu-yiyan-icon.png"
+            },
+            {
+                "h_title": "文心一格",
+                "text": "AI艺术和创意辅助平台",
+                "url": "https://yige.baidu.com/",
+                "imageurl": "./iconsimage/paddlepaddle-icon.png"
+            },
+            {
+                "h_title": "Jasper",
+                "text": "AI文字内容创作工具",
+                "url": "https://www.jasper.ai/",
+                "imageurl": "./iconsimage/jasper-ai-icon.png"
+            },
+            {
+                "h_title": "Stable Diffusion",
+                "text": "Stability AI推出的文本到图像生成AI模型",
+                "url": "http://beta.dreamstudio.ai/",
+                "imageurl": "./iconsimage/stability-ai-icon.png"
+            },
+            {
+                "h_title": "Copy.ai",
+                "text": "人工智能营销文案和内容创作工具",
+                "url": "https://www.copy.ai/",
+                "imageurl": "./iconsimage/copy-ai-icon.png"
+            },
+            {
+                "h_title": "PhotoRoom",
+                "text": "免费的AI图片背景移除和添加",
+                "url": "https://www.photoroom.com/background-remover",
+                "imageurl": "./iconsimage/photoroom-icon.png"
+            },
+            {
+                "h_title": "Bing Image Creator",
+                "text": "微软必应推出的基于DALL·E的AI图像生成工具",
+                "url": "https://www.bing.com/create",
+                "imageurl": "./iconsimage/new-bing-icon.png"
+            },
+            {
+                "h_title": "OpenGPT",
+                "text": "开源ChatGPT工具箱，创建属于自己的ChatGPT应用",
+                "url": "https://open-gpt.app/",
+                "imageurl": "./iconsimage/opengpt-icon.png"
+            },
+            {
+                "h_title": "文房思宝",
+                "text": "毕业论文与AI对话",
+                "url": "https://paper666.com",
+                "imageurl": "./iconsimage/wenfangsibao-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI写作工具",
+        "list": [
+            {
+                "h_title": "Jasper",
+                "text": "AI文字内容创作工具",
+                "url": "https://www.jasper.ai/",
+                "imageurl": "./iconsimage/jasper-ai-icon.png"
+            },
+            {
+                "h_title": "Copy.ai",
+                "text": "人工智能营销文案和内容创作工具",
+                "url": "https://www.copy.ai/",
+                "imageurl": "./iconsimage/copy-ai-icon.png"
+            },
+            {
+                "h_title": "Writesonic",
+                "text": "AI写作，文案，释义工具",
+                "url": "https://writesonic.com/",
+                "imageurl": "./iconsimage/writesonic-icon.png"
+            },
+            {
+                "h_title": "Rytr",
+                "text": "AI内容生成和写作助手",
+                "url": "https://rytr.me/",
+                "imageurl": "./iconsimage/rytr-me-icon.png"
+            },
+            {
+                "h_title": "Notion AI",
+                "text": "Notion旗下的AI笔记和内容创作助手",
+                "url": "https://www.notion.so/product/ai",
+                "imageurl": "./iconsimage/notion-ai-icon.png"
+            },
+            {
+                "h_title": "彩云小梦",
+                "text": "彩云科技推出的智能AI故事写作工具",
+                "url": "https://if.caiyunai.com/",
+                "imageurl": "./iconsimage/if-caiyunai-icon.png"
+            },
+            {
+                "h_title": "Grammarly",
+                "text": "AI语法检查写作助手",
+                "url": "https://www.grammarly.com/",
+                "imageurl": "./iconsimage/grammarly-icon.png"
+            },
+            {
+                "h_title": "QuillBot",
+                "text": "AI写作润色工具",
+                "url": "https://quillbot.com/",
+                "imageurl": "./iconsimage/quillbot-icon.png"
+            },
+            {
+                "h_title": "DeepL Write",
+                "text": "DeepL推出的AI驱动的写作助手",
+                "url": "https://www.deepl.com/write",
+                "imageurl": "./iconsimage/deepl-write-icon.png"
+            },
+            {
+                "h_title": "火山写作",
+                "text": "字节跳动旗下团队推出的英语写作助手",
+                "url": "https://www.writingo.net/",
+                "imageurl": "./iconsimage/huoshan-writing-icon.png"
+            },
+            {
+                "h_title": "NovelAI",
+                "text": "AI小说故事创作工具",
+                "url": "https://novelai.net/",
+                "imageurl": "./iconsimage/novel-ai-icon.png"
+            },
+            {
+                "h_title": "Bearly",
+                "text": "AI阅读总结、写作和内容生成助手",
+                "url": "https://bearly.ai/",
+                "imageurl": "./iconsimage/bearly-ai-icon.png"
+            },
+            {
+                "h_title": "ContentBot",
+                "text": "AI快速写作工具",
+                "url": "https://contentbot.ai/",
+                "imageurl": "./iconsimage/contentbot-icon.png"
+            },
+            {
+                "h_title": "Compose AI",
+                "text": "免费的Chrome浏览器自动化写作扩展",
+                "url": "https://www.compose.ai/",
+                "imageurl": "./iconsimage/compose-ai-icon.png"
+            },
+            {
+                "h_title": "Copysmith",
+                "text": "企业级和电商文案生成",
+                "url": "https://copysmith.ai/",
+                "imageurl": "./iconsimage/copysmith-icon.png"
+            },
+            {
+                "h_title": "Magic Write",
+                "text": "Canva旗下AI文案生成器",
+                "url": "https://www.canva.com/magic-write/",
+                "imageurl": "./iconsimage/canva-icon.png"
+            },
+            {
+                "h_title": "Peppertype.ai",
+                "text": "高质量AI内容生成",
+                "url": "https://www.peppertype.ai/",
+                "imageurl": "./iconsimage/peppertype-ai-icon.png"
+            },
+            {
+                "h_title": "Spell.tools",
+                "text": "高颜值AI内容营销创作工具",
+                "url": "https://spell.tools/",
+                "imageurl": "./iconsimage/spell-tools-icon.png"
+            },
+            {
+                "h_title": "Reword",
+                "text": "AI文章写作",
+                "url": "https://reword.co/",
+                "imageurl": "./iconsimage/reword-ai-icon.png"
+            },
+            {
+                "h_title": "HyperWrite",
+                "text": "AI写作助手帮助你创作内容更自信",
+                "url": "https://hyperwriteai.com/",
+                "imageurl": "./iconsimage/hyperwriteai-icon.png"
+            },
+            {
+                "h_title": "Typeface",
+                "text": "AI创意内容创作助手",
+                "url": "https://www.typeface.ai/",
+                "imageurl": "./iconsimage/typeface-ai-icon.png"
+            },
+            {
+                "h_title": "爱改写",
+                "text": "AI写作和改写润色辅助工具",
+                "url": "https://www.aigaixie.com/",
+                "imageurl": "./iconsimage/aigaixie-icon.png"
+            },
+            {
+                "h_title": "悉语",
+                "text": "阿里旗下智能文案工具，一键生成电商营销文案",
+                "url": "https://chuangyi.taobao.com/pages/aiCopy",
+                "imageurl": "./iconsimage/taobao-xiyu-icon.png"
+            },
+            {
+                "h_title": "Effidit",
+                "text": "腾讯AI Lab开发的智能创作助手",
+                "url": "https://effidit.qq.com/",
+                "imageurl": "./iconsimage/effidit-icon.png"
+            },
+            {
+                "h_title": "秘塔写作猫",
+                "text": "AI写作，文章自成",
+                "url": "https://xiezuocat.com/",
+                "imageurl": "./iconsimage/xiezuocat-icon.png"
+            },
+            {
+                "h_title": "火龙果写作",
+                "text": "AI驱动的文字生产力工具",
+                "url": "https://www.mypitaya.com/",
+                "imageurl": "./iconsimage/mypitaya-icon.png"
+            },
+            {
+                "h_title": "HeyFriday",
+                "text": "国内团队推出的智能AI写作工具",
+                "url": "https://www.heyfriday.cn/home",
+                "imageurl": "./iconsimage/heyfriday-icon.png"
+            },
+            {
+                "h_title": "WPS智能写作",
+                "text": "WPS旗下在线智能写作工具",
+                "url": "https://aiwrite.wps.cn/",
+                "imageurl": "./iconsimage/wps-aiwrite-icon.png"
+            },
+            {
+                "h_title": "易撰",
+                "text": "新媒体AI内容创作助手",
+                "url": "https://www.yizhuan5.com/",
+                "imageurl": "./iconsimage/yizhuan5-icon.png"
+            },
+            {
+                "h_title": "智搜",
+                "text": "Giiso写作机器人，内容创作AI辅助工具",
+                "url": "https://www.giiso.com/",
+                "imageurl": "./iconsimage/giiso-icon.png"
+            },
+            {
+                "h_title": "Texta",
+                "text": "AI博客和文章一键生成",
+                "url": "https://texta.ai/",
+                "imageurl": "./iconsimage/texta-ai-icon.png"
+            },
+            {
+                "h_title": "Sudowrite",
+                "text": "AI故事写作工具，多种风格选择",
+                "url": "https://www.sudowrite.com/",
+                "imageurl": "./iconsimage/sudowrite-icon.png"
+            },
+            {
+                "h_title": "ClosersCopy",
+                "text": "AI文案写作机器人",
+                "url": "https://www.closerscopy.com/",
+                "imageurl": "./iconsimage/closercopy-icon.png"
+            },
+            {
+                "h_title": "Anyword",
+                "text": "AI文案写作助手和文本生成器",
+                "url": "https://anyword.com/",
+                "imageurl": "./iconsimage/anyword-icon.png"
+            },
+            {
+                "h_title": "Hypotenuse AI",
+                "text": "人工智能写作助手和文本生成器",
+                "url": "https://zh.hypotenuse.ai/",
+                "imageurl": "./iconsimage/hypotenuse-ai-icon.png"
+            },
+            {
+                "h_title": "ParagraphAI",
+                "text": "基于ChatGPT的AI写作应用",
+                "url": "https://paragraphai.com/",
+                "imageurl": "./iconsimage/paragraph-ai-icon.png"
+            },
+            {
+                "h_title": "LongShot",
+                "text": "AI长文章写作工具",
+                "url": "https://www.longshot.ai/",
+                "imageurl": "./iconsimage/longshot-ai-icon.png"
+            },
+            {
+                "h_title": "Jounce",
+                "text": "无限制免费AI文案写作",
+                "url": "https://www.jounce.ai/",
+                "imageurl": "./iconsimage/jounce-ai-icon.png"
+            },
+            {
+                "h_title": "Elephas",
+                "text": "与Mac、iPhone、iPad集成的个人写作助手",
+                "url": "https://elephas.app/",
+                "imageurl": "./iconsimage/elephas-icon.png"
+            },
+            {
+                "h_title": "AISEO",
+                "text": "AI创作SEO优化友好的文案和文章",
+                "url": "https://aiseo.ai/index.html",
+                "imageurl": "./iconsimage/aiseo-ai-icon.png"
+            },
+            {
+                "h_title": "Writer",
+                "text": "企业级AI内容创作工具",
+                "url": "https://writer.com/",
+                "imageurl": "./iconsimage/writer-icon.png"
+            },
+            {
+                "h_title": "SurferSEO",
+                "text": "AI SEO大纲和内容优化写作工具",
+                "url": "https://surferseo.com/",
+                "imageurl": "./iconsimage/surferseo-icon.png"
+            },
+            {
+                "h_title": "ProWritingAid",
+                "text": "AI写作助手软件",
+                "url": "https://prowritingaid.com/",
+                "imageurl": "./iconsimage/prowritingaid-icon.png"
+            },
+            {
+                "h_title": "WordTune",
+                "text": "你的个人写作助手和编辑",
+                "url": "https://www.wordtune.com/",
+                "imageurl": "./iconsimage/wordtune-icon.png"
+            },
+            {
+                "h_title": "Yaara",
+                "text": "释放你的写作潜力",
+                "url": "https://yaara.ai/",
+                "imageurl": "./iconsimage/yaara-ai-icon.png"
+            },
+            {
+                "h_title": "Frase",
+                "text": "AI SEO内容优化和写作工具",
+                "url": "https://www.frase.io/",
+                "imageurl": "./iconsimage/frase-io-icon.png"
+            },
+            {
+                "h_title": "NeuralText",
+                "text": "AI SEO写作助手",
+                "url": "https://www.neuraltext.com/",
+                "imageurl": "./iconsimage/neuraltext-icon.png"
+            },
+            {
+                "h_title": "Copymatic",
+                "text": "AI文案写作助手",
+                "url": "https://copymatic.ai/",
+                "imageurl": "./iconsimage/copymatic-icon.png"
+            },
+            {
+                "h_title": "TextCortex",
+                "text": "AI写作能手",
+                "url": "https://textcortex.com/",
+                "imageurl": "./iconsimage/textcortext-icon.png"
+            },
+            {
+                "h_title": "INK",
+                "text": "AI内容营销和SEO助手",
+                "url": "https://inkforall.com/",
+                "imageurl": "./iconsimage/inkforall-icon.png"
+            },
+            {
+                "h_title": "Content at Scale",
+                "text": "AI SEO长内容创作",
+                "url": "https://contentatscale.ai/",
+                "imageurl": "./iconsimage/contentatscale-icon.png"
+            },
+            {
+                "h_title": "笔灵AI",
+                "text": "面向专业写作领域的AI写作工具",
+                "url": "https://ibiling.cn",
+                "imageurl": "./iconsimage/ibiling-icon.png"
+            },
+            {
+                "h_title": "万彩AI",
+                "text": "全能型AI内容和文案创作助手",
+                "url": "https://ai.kezhan365.com",
+                "imageurl": "./iconsimage/ai-kezhan365-icon.png"
+            },
+            {
+                "h_title": "Coda AI",
+                "text": "在线协作平台Coda推出的AI写作和文档助手，类似于Notion AI",
+                "url": "https://coda.io/product/ai",
+                "imageurl": "./iconsimage/coda-icon.png"
+            },
+            {
+                "h_title": "Jenni",
+                "text": "AI研究文章和博客写作辅助工具",
+                "url": "https://jennl.ai",
+                "imageurl": "./iconsimage/jenni-ai-icon.png"
+            },
+            {
+                "h_title": "奇妙文",
+                "text": "出门问问推出的AI写作助理",
+                "url": "https://wen.mobvoi.com",
+                "imageurl": "./iconsimage/wen-mobvoi-icon.png"
+            },
+            {
+                "h_title": "魔撰写作",
+                "text": "魔音工坊团队推出的AI智能写作工具",
+                "url": "https://x.moyin.com",
+                "imageurl": "./iconsimage/x-moyin-icon.png"
+            },
+            {
+                "h_title": "有道写作",
+                "text": "网易有道出品的智能英文写作修改和润色工具",
+                "url": "https://write.youdao.com/",
+                "imageurl": "./iconsimage/write-youdao-icon.png"
+            },
+            {
+                "h_title": "爱创作",
+                "text": "ZAKER新闻推出的AI写作工具",
+                "url": "https://ai.zaker.cn",
+                "imageurl": "./iconsimage/ai-zaker-icon.png"
+            },
+            {
+                "h_title": "Verse",
+                "text": "印象笔记旗下团队推出的AI写作和文档工具",
+                "url": "https://verse.app.yinxiang.com/product/",
+                "imageurl": "./iconsimage/verse-icon.png"
+            },
+            {
+                "h_title": "度加创作工具",
+                "text": "百度官方出品的AIGC创作平台",
+                "url": "https://aigc.baidu.com/",
+                "imageurl": "./iconsimage/aigc-baidu-icon.png"
+            },
+            {
+                "h_title": "Moonbeam",
+                "text": "长文章AI内容创作助手",
+                "url": "https://www.gomoonbeam.com/",
+                "imageurl": "./iconsimage/moonbeam-icon.png"
+            },
+            {
+                "h_title": "Cohesive",
+                "text": "人工智能文案内容创作和编辑工具",
+                "url": "https://cohesive.so/",
+                "imageurl": "./iconsimage/cohesive-icon.png"
+            },
+            {
+                "h_title": "Spell.tools",
+                "text": "高颜值AI内容营销创作工具",
+                "url": "https://spell.tools/",
+                "imageurl": "./iconsimage/spell-tools-icon.png"
+            },
+            {
+                "h_title": "悉语",
+                "text": "阿里旗下智能文案工具，一键生成电商营销文案",
+                "url": "https://chuangyi.taobao.com/pages/aiCopy",
+                "imageurl": "./iconsimage/xiyu-alibaba-icon.png"
+            },
+            {
+                "h_title": "Effidit",
+                "text": "腾讯AI Lab开发的智能创作助手",
+                "url": "https://effidit.qq.com",
+                "imageurl": "./iconsimage/effidit-icon.png"
+            },
+            {
+                "h_title": "火龙果写作",
+                "text": "AI驱动的文字生产力工具",
+                "url": "https://www.mypitaya.com",
+                "imageurl": "./iconsimage/mypitaya-icon.png"
+            },
+            {
+                "h_title": "HeyFriday",
+                "text": "国内团队推出的智能AI写作工具",
+                "url": "https://www.heyfriday.cn/home",
+                "imageurl": "./iconsimage/heyfriday-icon.png"
+            },
+            {
+                "h_title": "创作王",
+                "text": "AI一键帮助你创作营销内容",
+                "url": "https://aiapp.cc",
+                "imageurl": "./iconsimage/aiapp-cc-icon.png"
+            },
+            {
+                "h_title": "字符狂飙",
+                "text": "全方位AI文档生成工具，快速生成专业文档",
+                "url": "https://vgoapp.com",
+                "imageurl": "./iconsimage/wordfury-icon.png"
+            },
+            {
+                "h_title": "讯飞智检",
+                "text": "讯飞推出的智能写作SaaS工具，支持智能写作后的校对与合规审核",
+                "url": "https://zj.xfyun.cn/exam/text",
+                "imageurl": "./iconsimage/zj-xfyun-icon.png"
+            },
+            {
+                "h_title": "5118 SEO优化精灵",
+                "text": "一键式生成高质量SEO文章，提高搜索引擎排名获得更多流量",
+                "url": "https://www.5118.com/ai/articlegenius",
+                "imageurl": "./iconsimage/5118-icon.png"
+            },
+            {
+                "h_title": "快文CopyDone",
+                "text": "AIGC原创内容创作和营销文案生成",
+                "url": "https://copyai.cn",
+                "imageurl": "./iconsimage/copydone-icon.png"
+            },
+            {
+                "h_title": "Compose AI",
+                "text": "免费的Chrome浏览器自动化写作扩展",
+                "url": "https://www.compose.ai/",
+                "imageurl": "./iconsimage/compose-ai-icon.png"
+            },
+            {
+                "h_title": "Sudowrite",
+                "text": "AI故事写作工具，多种风格选择",
+                "url": "https://www.sudowrite.com/",
+                "imageurl": "./iconsimage/sudowrite-icon.png"
+            },
+            {
+                "h_title": "ClosersCopy",
+                "text": "AI文案写作机器人",
+                "url": "https://www.closerscopy.com/",
+                "imageurl": "./iconsimage/closercopy-icon.png"
+            },
+            {
+                "h_title": "Copysmith",
+                "text": "企业级和电商文案生成",
+                "url": "https://copysmith.ai/",
+                "imageurl": "./iconsimage/copysmith-icon.png"
+            },
+            {
+                "h_title": "Mark Copy",
+                "text": "AI快速创建营销文案",
+                "url": "https://www.markcopy.ai/",
+                "imageurl": "./iconsimage/mark-copy-icon.png"
+            },
+            {
+                "h_title": "秘塔写作猫",
+                "text": "AI写作，文章自成",
+                "url": "https://xiezuocat.com/?s=aigj",
+                "imageurl": "./iconsimage/xiezuocat-ai-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI图像工具",
+        "list": [
+            {
+                "h_title": "Midjourney",
+                "text": "AI图像和插画生成工具",
+                "url": "https://midjourney.com/",
+                "imageurl": "./iconsimage/midjourney-icon.png"
+            },
+            {
+                "h_title": "Bing Image Creator",
+                "text": "微软必应推出的基于DALL·E的AI图像生成工具",
+                "url": "https://www.bing.com/create",
+                "imageurl": "./iconsimage/new-bing-icon.png"
+            },
+            {
+                "h_title": "remove.bg",
+                "text": "AI在线抠图软件，图片去除背景",
+                "url": "https://www.remove.bg/zh",
+                "imageurl": "./iconsimage/remove-bg-icon.png"
+            },
+            {
+                "h_title": "Ribbet.ai",
+                "text": "免费在线AI图片处理编辑",
+                "url": "https://ribbet.ai/",
+                "imageurl": "./iconsimage/ribbet-ai-icon.png"
+            },
+            {
+                "h_title": "PhotoRoom",
+                "text": "免费的AI图片背景移除和添加",
+                "url": "https://www.photoroom.com/background-remover",
+                "imageurl": "./iconsimage/photoroom-icon.png"
+            },
+            {
+                "h_title": "ARC",
+                "text": "腾讯旗下ARC实验室推出的AI人像修复、抠图和增强工具",
+                "url": "https://arc.tencent.com/zh/ai-demos/",
+                "imageurl": "./iconsimage/tencent-arc-icon.png"
+            },
+            {
+                "h_title": "Booltool",
+                "text": "常用AI图片图像处理工具箱",
+                "url": "https://booltool.boolv.tech/home",
+                "imageurl": "./iconsimage/booltool-icon.png"
+            },
+            {
+                "h_title": "Relight",
+                "text": "ClipDrop推出的AI图片图像打光工具",
+                "url": "https://clipdrop.co/relight",
+                "imageurl": "./iconsimage/clipdrop-relight-icon-1.png"
+            },
+            {
+                "h_title": "Hama",
+                "text": "AI图片对象智能抹除",
+                "url": "https://www.hama.app/zh",
+                "imageurl": "./iconsimage/hama-app-icon.png"
+            },
+            {
+                "h_title": "ClipDrop",
+                "text": "Stability.AI出品的图片处理系列工具（背景移除、图片放大、打光）",
+                "url": "https://clipdrop.co/",
+                "imageurl": "./iconsimage/clipdrop-icon.png"
+            },
+            {
+                "h_title": "稿定抠图",
+                "text": "AI自动消除图片背景",
+                "url": "https://koutu.gaoding.com/",
+                "imageurl": "./iconsimage/gaoding-koutu-icon.png"
+            },
+            {
+                "h_title": "BigJPG",
+                "text": "AI人工智能图片无损放大",
+                "url": "https://bigjpg.com/",
+                "imageurl": "./iconsimage/bigjpg-icon.png"
+            },
+            {
+                "h_title": "MagicStudio",
+                "text": "AI图片创作工具箱",
+                "url": "https://magicstudio.com/zh",
+                "imageurl": "./iconsimage/magicstudio-icon.png"
+            },
+            {
+                "h_title": "Pixelcut.ai",
+                "text": "AI产品图片处理——背景移除替换、物体抹除和图片放大",
+                "url": "https://www.pixelcut.ai/",
+                "imageurl": "./iconsimage/pixelcut-icon.png"
+            },
+            {
+                "h_title": "PicWish",
+                "text": "AI驱动的在线图片编辑工具",
+                "url": "https://picwish.com/",
+                "imageurl": "./iconsimage/picwish-icon.png"
+            },
+            {
+                "h_title": "Cutout.Pro",
+                "text": "综合型AI图片工具",
+                "url": "https://www.cutout.pro/",
+                "imageurl": "./iconsimage/cutout-pro-icon.png"
+            },
+            {
+                "h_title": "Facet",
+                "text": "AI驱动的图片编辑修图工具",
+                "url": "https://facet.ai/",
+                "imageurl": "./iconsimage/facet-ai-icon.png"
+            },
+            {
+                "h_title": "Fotor",
+                "text": "Fotor AI图片生成工具",
+                "url": "https://www.fotor.com/features/ai-image-generator/",
+                "imageurl": "./iconsimage/fotor-icon.png"
+            },
+            {
+                "h_title": "Hotpot.ai",
+                "text": "AI工具箱（图像、游戏和写作系列工具）",
+                "url": "https://hotpot.ai/",
+                "imageurl": "./iconsimage/hotpot-ai-icon.png"
+            },
+            {
+                "h_title": "Adobe Firefly",
+                "text": "Adobe最新推出的AI图像生成和编辑工具",
+                "url": "https://firefly.adobe.com/",
+                "imageurl": "./iconsimage/adobe-icon.png"
+            },
+            {
+                "h_title": "Stockimg AI",
+                "text": "AI生成高质量图像、书籍封面、壁纸、海报、Logo、插画、艺术等",
+                "url": "https://stockimg.ai/",
+                "imageurl": "./iconsimage/stockimg-ai-icon.png"
+            },
+            {
+                "h_title": "文心一格",
+                "text": "AI艺术和创意辅助平台",
+                "url": "https://yige.baidu.com/",
+                "imageurl": "./iconsimage/paddlepaddle-icon.png"
+            },
+            {
+                "h_title": "Canva AI图像生成",
+                "text": "Canva AI文本到图像生成工具",
+                "url": "https://www.canva.com/features/ai-image-generator/",
+                "imageurl": "./iconsimage/canva-icon.png"
+            },
+            {
+                "h_title": "Stable Diffusion",
+                "text": "Stability AI推出的文本到图像生成AI模型",
+                "url": "http://beta.dreamstudio.ai/",
+                "imageurl": "./iconsimage/stability-ai-icon.png"
+            },
+            {
+                "h_title": "标小智Logo生成",
+                "text": "人工智能AI生成Logo设计工具",
+                "url": "https://www.logosc.cn/",
+                "imageurl": "./iconsimage/logosc-icon.png"
+            },
+            {
+                "h_title": "Upscayl",
+                "text": "免费开源的AI图片无损放大工具",
+                "url": "https://upscayl.github.io",
+                "imageurl": "./iconsimage/upscayl-icon.png"
+            },
+            {
+                "h_title": "创客贴AI画匠",
+                "text": "创客贴推出的AI艺术画生成工具",
+                "url": "https://aiart.chuangkit.com/landingpage",
+                "imageurl": "./iconsimage/chuangkit-aiart-icon.png"
+            },
+            {
+                "h_title": "造梦日记",
+                "text": "AI一下，妙笔生画",
+                "url": "https://www.printidea.art/",
+                "imageurl": "./iconsimage/printidea-art-icon.png"
+            },
+            {
+                "h_title": "美图AI文生图",
+                "text": "美图推出的AI文本生成图片的工具",
+                "url": "https://design.meitu.com/aigc/text-to-image",
+                "imageurl": "./iconsimage/meitu-aigc-icon.png"
+            },
+            {
+                "h_title": "WHEE",
+                "text": "美图最新推出的AI图片和绘画创作生成平台",
+                "url": "https://www.whee.com/",
+                "imageurl": "./iconsimage/whee-icon.png"
+            },
+            {
+                "h_title": "堆友AI反应堆",
+                "text": "阿里旗下堆友推出的多风格AI绘画生成器",
+                "url": "https://d.design/ai",
+                "imageurl": "./iconsimage/d-design-ai-icon.png"
+            },
+            {
+                "h_title": "通义万相",
+                "text": "阿里最新推出的AI绘画创作模型",
+                "url": "https://wanxiang.aliyun.com/",
+                "imageurl": "./iconsimage/tongyi-aliyun-icon.png"
+            },
+            {
+                "h_title": "6pen Art",
+                "text": "面包多团队推出的从文本描述生成绘画艺术作品",
+                "url": "https://6pen.art/",
+                "imageurl": "./iconsimage/6pen-art-icon.png"
+            },
+            {
+                "h_title": "画宇宙",
+                "text": "人工智能AI作画网站",
+                "url": "https://creator.nolibox.com/",
+                "imageurl": "./iconsimage/creator-nolibox-icon.png"
+            },
+            {
+                "h_title": "Freepik AI Image Generator",
+                "text": "Freepik最新推出的AI图片生成工具",
+                "url": "https://www.freepik.com/ai/image-generator",
+                "imageurl": "./iconsimage/freepik-ai-image-generator-icon.png"
+            },
+            {
+                "h_title": "Stable Doodle",
+                "text": "StabilityAI最新推出的将手绘草图转换成精美图像的工具",
+                "url": "https://clipdrop.co/stable-doodle",
+                "imageurl": "./iconsimage/stable-doodle-icon.png"
+            },
+            {
+                "h_title": "行者AI美术",
+                "text": "AI图片生成和美术创作工具箱",
+                "url": "https://xingzheai.cn/",
+                "imageurl": "./iconsimage/xingzhe-ai-icon.png"
+            },
+            {
+                "h_title": "Leonardo.ai",
+                "text": "AI创建精美的游戏插画资产",
+                "url": "https://leonardo.ai",
+                "imageurl": "./iconsimage/leonardo-ai-icon.png"
+            },
+            {
+                "h_title": "稿定抠图",
+                "text": "稿定设计推出的AI自动消除背景工具",
+                "url": "https://koutu.gaoding.com/",
+                "imageurl": "./iconsimage/gaoding-design-icon.png"
+            },
+            {
+                "h_title": "美图抠图",
+                "text": "美图秀秀推出的AI智能抠图工具，一键移除背景",
+                "url": "https://cutout.meitu.com/",
+                "imageurl": "./iconsimage/meitu-cutout-icon.png"
+            },
+            {
+                "h_title": "MagicStudio",
+                "text": "高颜值AI图像处理工具",
+                "url": "https://magicstudio.com/zh",
+                "imageurl": "./iconsimage/magicstudio-icon.png"
+            },
+            {
+                "h_title": "言之画",
+                "text": "AI图像内容创作平台，由出门问问推出",
+                "url": "https://paint.mobvoi.com/",
+                "imageurl": "./iconsimage/paint-mobvoi-icon.png"
+            },
+            {
+                "h_title": "Graviti Diffus",
+                "text": "开箱即用的 Stable Diffusion WebUI 在线图像生成服务",
+                "url": "https://www.diffus.graviti.com/",
+                "imageurl": "./iconsimage/graviti-diffus-icon.png"
+            },
+            {
+                "h_title": "AI改图神器",
+                "text": "AI万能图片在线编辑器",
+                "url": "https://img.logosc.cn/",
+                "imageurl": "./iconsimage/img-logosc-icon.png"
+            },
+            {
+                "h_title": "悟空图像PhotoSir",
+                "text": "新一代专业图像处理软件，更智能、更高效、更好用",
+                "url": "https://www.photosir.com/",
+                "imageurl": "./iconsimage/photosir-icon.png"
+            },
+            {
+                "h_title": "秘塔捉捉猫",
+                "text": "秘塔写作猫推出的AI文字到图像生成工具",
+                "url": "https://drawdraw.com/",
+                "imageurl": "./iconsimage/drawdraw-ai-icon.png"
+            },
+            {
+                "h_title": "DeepAI",
+                "text": "在线AI图片生成和编辑",
+                "url": "https://deepai.org/",
+                "imageurl": "./iconsimage/deepai-icon.png"
+            },
+            {
+                "h_title": "Skybox AI",
+                "text": "AI生成和合成360°全景图像插画",
+                "url": "https://skybox.blockadelabs.com/",
+                "imageurl": "./iconsimage/skybox-ai-icon.png"
+            },
+            {
+                "h_title": "天工巧绘SkyPaint",
+                "text": "免费的AI插画绘制工具，由昆仑万维与奇点智源合作推出",
+                "url": "https://sky-paint.singularity-ai.com/index.html",
+                "imageurl": "./iconsimage/skypaint-icon.png"
+            },
+            {
+                "h_title": "FlagStudio",
+                "text": "智源研究院推出的AI文本图像绘画生成工具",
+                "url": "https://flagstudio.baai.ac.cn",
+                "imageurl": "./iconsimage/flagai-icon.png"
+            },
+            {
+                "h_title": "NightCafe",
+                "text": "AI艺术插画在线生成",
+                "url": "https://creator.nightcafe.studio/",
+                "imageurl": "./iconsimage/nightcafe-icon.png"
+            },
+            {
+                "h_title": "niji・journey",
+                "text": "魔法般的二次元绘画生成",
+                "url": "https://nijijourney.com/en/",
+                "imageurl": "./iconsimage/niji-journey-icon.png"
+            },
+            {
+                "h_title": "Deep Dream Generator",
+                "text": "AI创建生成梦幻般的插画图片，刻画你的梦中场景",
+                "url": "https://deepdreamgenerator.com/",
+                "imageurl": "./iconsimage/deep-dream-generator-icon.png"
+            },
+            {
+                "h_title": "无限画",
+                "text": "千库网推出的AI图片插画生成工具",
+                "url": "https://588ku.com/ai/wuxianhua/Home",
+                "imageurl": "./iconsimage/588ku-ai-icon.png"
+            },
+            {
+                "h_title": "BlueWillow",
+                "text": "免费的AI图像艺术画生成工具",
+                "url": "https://www.bluewillow.ai/",
+                "imageurl": "./iconsimage/bluewillow-icon.png"
+            },
+            {
+                "h_title": "Waifu Labs",
+                "text": "免费在线AI生成二次元动漫头像",
+                "url": "https://waifulabs.com/",
+                "imageurl": "./iconsimage/waifu-labs-icon.png"
+            },
+            {
+                "h_title": "dreamlike.art",
+                "text": "免费在线插画生成工具",
+                "url": "https://dreamlike.art/",
+                "imageurl": "./iconsimage/dreamlike-art-icon.png"
+            },
+            {
+                "h_title": "Artbreeder",
+                "text": "创建令人惊叹的插画和艺术",
+                "url": "https://www.artbreeder.com/",
+                "imageurl": "./iconsimage/artbreeder-icon.png"
+            },
+            {
+                "h_title": "Tiamat",
+                "text": "国内团队推出的AI艺术画生成工具",
+                "url": "https://www.tiamat.world/",
+                "imageurl": "./iconsimage/tiamat-icon.png"
+            },
+            {
+                "h_title": "Vega AI",
+                "text": "在线免费AI插画创作平台，支持文生图，图生图，条件生图等多种绘画模式",
+                "url": "https://rightbrain.art",
+                "imageurl": "./iconsimage/rightbrain-ai-icon.png"
+            },
+            {
+                "h_title": "Wepik AI",
+                "text": "Freepik推出的AI文本到图像的在线生成工具",
+                "url": "https://wepik.com/ai",
+                "imageurl": "./iconsimage/wepik-icon.png"
+            },
+            {
+                "h_title": "Craiyon",
+                "text": "免费在线文本到图像生成",
+                "url": "https://www.craiyon.com/",
+                "imageurl": "./iconsimage/craiyon-icon.png"
+            },
+            {
+                "h_title": "万兴爱画",
+                "text": "万兴科技推出的AI生成高品质艺术画工具",
+                "url": "https://aigc.wondershare.cn",
+                "imageurl": "./iconsimage/aigc-wondershare-icon.png"
+            },
+            {
+                "h_title": "Photosonic",
+                "text": "Writesonic推出的AI艺术插画生成工具",
+                "url": "https://photosonic.pro/",
+                "imageurl": "./iconsimage/photosonic-icon.png"
+            },
+            {
+                "h_title": "Astria",
+                "text": "可定制的人工智能图像生成",
+                "url": "https://www.astria.ai/",
+                "imageurl": "./iconsimage/astria-ai-icon.png"
+            },
+            {
+                "h_title": "getimg.ai",
+                "text": "在线AI图像和插画创作工具",
+                "url": "https://getimg.ai/",
+                "imageurl": "./iconsimage/getimg-ai-icon.png"
+            },
+            {
+                "h_title": "DreamUp",
+                "text": "DeviantArt推出的AI插画生成工具",
+                "url": "https://www.dreamup.com/",
+                "imageurl": "./iconsimage/deviantart-icon.png"
+            },
+            {
+                "h_title": "Scribble Diffusion",
+                "text": "将草图转变为精美的插画",
+                "url": "https://scribblediffusion.com/",
+                "imageurl": "./iconsimage/scribble-diffusion-icon.png"
+            },
+            {
+                "h_title": "Lexica",
+                "text": "基于Stable Diffusion的在线插画生成",
+                "url": "https://lexica.art/",
+                "imageurl": "./iconsimage/lexica-icon.png"
+            },
+            {
+                "h_title": "Generated Photos",
+                "text": "AI人脸头像生成工具",
+                "url": "https://generated.photos/",
+                "imageurl": "./iconsimage/generated-photos-icon.png"
+            },
+            {
+                "h_title": "Picsart AI",
+                "text": "Picsart推出的AI图片生成器",
+                "url": "https://picsart.com/ai-image-generator",
+                "imageurl": "./iconsimage/picsart-icon.png"
+            },
+            {
+                "h_title": "Imagine by Magic Studio",
+                "text": "AI文字到图片生成",
+                "url": "https://magicstudio.com/imagine/",
+                "imageurl": "./iconsimage/magicstudio-imagine-icon.png"
+            },
+            {
+                "h_title": "神采",
+                "text": "让创意照进现实， AI生成创意插画",
+                "url": "https://www.promeai.com",
+                "imageurl": "./iconsimage/promeai-icon.png"
+            },
+            {
+                "h_title": "neural.love",
+                "text": "AI艺术图片生成",
+                "url": "https://neural.love/",
+                "imageurl": "./iconsimage/neural-love-icon.png"
+            },
+            {
+                "h_title": "starryai",
+                "text": "AI艺术图片生成",
+                "url": "https://starryai.com/",
+                "imageurl": "./iconsimage/starry-ai-icon.png"
+            },
+            {
+                "h_title": "Artssy",
+                "text": "AI图像生成",
+                "url": "https://www.artsy.net/",
+                "imageurl": "./iconsimage/artssy-icon.png"
+            },
+            {
+                "h_title": "ShutterStock AI图片生成",
+                "text": "Shutterstock推出的AI图片生成工具",
+                "url": "https://www.shutterstock.com/ai-image-generator",
+                "imageurl": "./iconsimage/shutterstock-icon.png"
+            },
+            {
+                "h_title": "Playform",
+                "text": "专业的高质量AI艺术画生成平台",
+                "url": "https://www.playform.io/",
+                "imageurl": "./iconsimage/playform-icon.png"
+            },
+            {
+                "h_title": "Photo Booth by Magic Studio",
+                "text": "AI创建个人资料图片",
+                "url": "https://magicstudio.com/",
+                "imageurl": "./iconsimage/magicstudio-photobooth-icon.png"
+            },
+            {
+                "h_title": "Supermeme",
+                "text": "AI MEME梗图生成器",
+                "url": "https://www.supermeme.ai/",
+                "imageurl": "./iconsimage/supermeme-ai-icon.png"
+            },
+            {
+                "h_title": "Fotor",
+                "text": "Fotor推出的在线AI图片生成工具",
+                "url": "https://www.fotor.com/features/ai-image-generator",
+                "imageurl": "./iconsimage/fotor-icon.png"
+            },
+            {
+                "h_title": "Dream.ai",
+                "text": "WOMBO推出的AI艺术画生成工具",
+                "url": "https://dream.ai/",
+                "imageurl": "./iconsimage/wombo-dream-icon.png"
+            },
+            {
+                "h_title": "无界AI",
+                "text": "AI生成艺术插画和二次元人物",
+                "url": "https://www.wujieai.com/",
+                "imageurl": "./iconsimage/wujieai-icon.png"
+            },
+            {
+                "h_title": "站酷梦笔",
+                "text": "国内知名设计社区站酷推出的人工智能插画生成工具",
+                "url": "https://www.zcool.com.cn/ailab",
+                "imageurl": "./iconsimage/zcool-icon.png"
+            },
+            {
+                "h_title": "改图鸭AI图片生成",
+                "text": "改图鸭AI图片生成",
+                "url": "https://www.gaituya.com/aiimg",
+                "imageurl": "./iconsimage/gaituya-icon.png"
+            },
+            {
+                "h_title": "Prodia",
+                "text": "AI艺术画生成工具",
+                "url": "https://prodia.com/",
+                "imageurl": "./iconsimage/prodia-ai-icon.png"
+            },
+            {
+                "h_title": "Lucidpic",
+                "text": "AI生成高质量人像照片",
+                "url": "https://lucidpic.com/",
+                "imageurl": "./iconsimage/lucidpic-icon.png"
+            },
+            {
+                "h_title": "Icons8 Background Remover",
+                "text": "Icons8出品的免费图片背景移除工具",
+                "url": "https://icons8.com/bgremover",
+                "imageurl": "./iconsimage/icons8-background-remover-icon.png"
+            },
+            {
+                "h_title": "Erase.bg",
+                "text": "在线抠图和去除图片背景",
+                "url": "https://www.erase.bg/zh",
+                "imageurl": "./iconsimage/erase-bg-icon.png"
+            },
+            {
+                "h_title": "BgSub",
+                "text": "免费的保护隐私的AI图片背景去除工具",
+                "url": "https://bgsub.cn",
+                "imageurl": "./iconsimage/bgsub-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI音频工具",
+        "list": [
+            {
+                "h_title": "网易天音",
+                "text": "网易推出的AI音乐创作平台",
+                "url": "https://tianyin.163.com/",
+                "imageurl": "./iconsimage/tianyin-163-icon.png"
+            },
+            {
+                "h_title": "Riffusion",
+                "text": "AI生成不同风格的音乐",
+                "url": "https://www.riffusion.com/",
+                "imageurl": "./iconsimage/riffusion-icon.png"
+            },
+            {
+                "h_title": "讯飞智作",
+                "text": "科大讯飞推出的AI转语音和配音工具",
+                "url": "https://peiyin.xunfei.cn/",
+                "imageurl": "./iconsimage/peyin-xunfei-icon.png"
+            },
+            {
+                "h_title": "Resemble.ai",
+                "text": "AI人声生成工具",
+                "url": "https://www.resemble.ai/",
+                "imageurl": "./iconsimage/resemble.ai-icon.png"
+            },
+            {
+                "h_title": "IBM Watson文字转语音",
+                "text": "IBM Watson文字转语音",
+                "url": "https://www.ibm.com/cloud/watson-text-to-speech",
+                "imageurl": "./iconsimage/ibm-watson-icon.png"
+            },
+            {
+                "h_title": "FakeYou",
+                "text": "Deep Fake文本转语音",
+                "url": "https://fakeyou.com/",
+                "imageurl": "./iconsimage/fakeyou-icon.png"
+            },
+            {
+                "h_title": "AssemblyAI",
+                "text": "转录和理解语音的AI模型",
+                "url": "https://www.assemblyai.com/",
+                "imageurl": "./iconsimage/assembly-ai-icon.png"
+            },
+            {
+                "h_title": "Mubert",
+                "text": "AI BGM背景音乐生成工具",
+                "url": "https://mubert.com/",
+                "imageurl": "./iconsimage/mubert-icon.png"
+            },
+            {
+                "h_title": "Audo Studio",
+                "text": "AI音频清洗工具（噪音消除、声音平衡、音量调节）",
+                "url": "https://audo.ai/",
+                "imageurl": "./iconsimage/audo-studio-icon.png"
+            },
+            {
+                "h_title": "NaturalReader",
+                "text": "AI文本转语音工具",
+                "url": "https://www.naturalreaders.com/",
+                "imageurl": "./iconsimage/naturalreader-icon.png"
+            },
+            {
+                "h_title": "LALAL.AI",
+                "text": "AI人声乐器分离和提取",
+                "url": "https://www.lalal.ai/",
+                "imageurl": "./iconsimage/lalal.ai-icon.png"
+            },
+            {
+                "h_title": "Krisp",
+                "text": "AI噪音消除工具",
+                "url": "https://krisp.ai/",
+                "imageurl": "./iconsimage/krisp-ai-icon.png"
+            },
+            {
+                "h_title": "Play.ht",
+                "text": "超真实在线AI语音生成",
+                "url": "https://play.ht/",
+                "imageurl": "./iconsimage/play-ht-icon.png"
+            },
+            {
+                "h_title": "Murf AI",
+                "text": "AI文本转语音生成工具",
+                "url": "https://murf.ai/",
+                "imageurl": "./iconsimage/murf-ai-icon.png"
+            },
+            {
+                "h_title": "Lemonaid",
+                "text": "AI音乐生成工具",
+                "url": "https://lemonaid.ai/",
+                "imageurl": "./iconsimage/lemonaid-icon.png"
+            },
+            {
+                "h_title": "Soundraw",
+                "text": "AI音乐生成工具",
+                "url": "https://soundraw.io/",
+                "imageurl": "./iconsimage/soundraw-icon.png"
+            },
+            {
+                "h_title": "Boomy",
+                "text": "AI音乐生成工具",
+                "url": "https://boomy.com/",
+                "imageurl": "./iconsimage/boomy-icon.png"
+            },
+            {
+                "h_title": "LOVO AI",
+                "text": "AI人声和文本转语音生成工具",
+                "url": "https://lovo.ai/",
+                "imageurl": "./iconsimage/lovo-ai-icon.png"
+            },
+            {
+                "h_title": "Typecast",
+                "text": "在线AI文字转语音生成工具",
+                "url": "https://typecast.ai/",
+                "imageurl": "./iconsimage/typecast-ai-icon.png"
+            },
+            {
+                "h_title": "Veed AI Voice Generator",
+                "text": "Veed推出的AI语音生成器",
+                "url": "https://www.veed.io/tools/text-to-speech-video/ai-voice-generator",
+                "imageurl": "./iconsimage/veed-io-icon.png"
+            },
+            {
+                "h_title": "Clipchamp AI旁白生成器",
+                "text": "Clipchamp的文字转语音生成器",
+                "url": "https://clipchamp.com/zh-hans/features/ai-voice-over-generator/",
+                "imageurl": "./iconsimage/clipchamp-icon.png"
+            },
+            {
+                "h_title": "MetaVoice",
+                "text": "AI实时变声工具",
+                "url": "https://themetavoice.xyz/",
+                "imageurl": "./iconsimage/themetavoice-icon.png"
+            },
+            {
+                "h_title": "Speechify",
+                "text": "超2000万人都在用的文字转语音朗读器",
+                "url": "https://speechify.com/zh-hans/",
+                "imageurl": "./iconsimage/speechify-icon.png"
+            },
+            {
+                "h_title": "Voicemaker",
+                "text": "AI文本到语音生成工具",
+                "url": "https://voicemaker.in/",
+                "imageurl": "./iconsimage/voicemaker-icon.png"
+            },
+            {
+                "h_title": "Voice.ai",
+                "text": "实时AI变声工具",
+                "url": "https://voice.ai/",
+                "imageurl": "./iconsimage/voice-ai-icon.png"
+            },
+            {
+                "h_title": "Listnr",
+                "text": "AI文本到语音生成器",
+                "url": "https://www.listnr.tech/",
+                "imageurl": "./iconsimage/listnr-icon.png"
+            },
+            {
+                "h_title": "Voicemod",
+                "text": "AI变声工具",
+                "url": "https://www.voicemod.net/ai-voices/",
+                "imageurl": "./iconsimage/voicemod-icon.png"
+            },
+            {
+                "h_title": "WellSaid Labs",
+                "text": "AI文本转语音工具",
+                "url": "https://wellsaidlabs.com/",
+                "imageurl": "./iconsimage/wellsaidlabs-icon.png"
+            },
+            {
+                "h_title": "TME Studio",
+                "text": "腾讯音乐推出的智能音乐创作助手",
+                "url": "https://y.qq.com/tme_studio/index.html",
+                "imageurl": "./iconsimage/tme-studio-icon.png"
+            },
+            {
+                "h_title": "Uberduck",
+                "text": "开源的AI语音生成社区，5000多种不同的声音",
+                "url": "https://uberduck.ai/",
+                "imageurl": "./iconsimage/uberduck-icon.png"
+            },
+            {
+                "h_title": "Adobe Podcast",
+                "text": "Adobe推出的在线AI音频录制和编辑工具",
+                "url": "https://podcast.adobe.com",
+                "imageurl": "./iconsimage/adobe-podcast-icon.png"
+            },
+            {
+                "h_title": "网易云音乐·X Studio",
+                "text": "网易云音乐与小冰智能联合推出的免费AI歌手音乐创作软件",
+                "url": "https://xstudio.music.163.com/",
+                "imageurl": "./iconsimage/xstudio-music-163-icon.png"
+            },
+            {
+                "h_title": "ACE Studio",
+                "text": "AI歌声合成工具，输入歌词与旋律即可生成宛如真人的歌声",
+                "url": "https://ace-studio.timedomain.cn",
+                "imageurl": "./iconsimage/ace-studio-icon.png"
+            },
+            {
+                "h_title": "魔音工坊",
+                "text": "短视频/有声书AI配音平台，由出门问问推出",
+                "url": "https://www.moyin.com/",
+                "imageurl": "./iconsimage/moyin-icon.png"
+            },
+            {
+                "h_title": "BGM猫",
+                "text": "灵动音科技推出的AI智能生成BGM音乐",
+                "url": "https://bgmcat.com/home",
+                "imageurl": "./iconsimage/bgmcat-icon.png"
+            },
+            {
+                "h_title": "悦音配音",
+                "text": "AI智能在线配音语音合成工具",
+                "url": "https://yueyin.zhipianbang.com",
+                "imageurl": "./iconsimage/yueyin-icon.png"
+            },
+            {
+                "h_title": "Beatoven.ai",
+                "text": "免版税AI音乐创建平台",
+                "url": "https://www.beatoven.ai",
+                "imageurl": "./iconsimage/beatoven-ai-icon.png"
+            },
+            {
+                "h_title": "Notta",
+                "text": "AI在线将语音转换成文字",
+                "url": "https://www.notta.ai/en",
+                "imageurl": "./iconsimage/notta-ai-icon.png"
+            },
+            {
+                "h_title": "通义听悟",
+                "text": "阿里推出的AI会议转录工具，万语千言，心领神悟",
+                "url": "https://tingwu.aliyun.com/",
+                "imageurl": "./iconsimage/tingwu-icon.png"
+            },
+            {
+                "h_title": "BeatBot",
+                "text": "输入文本提示快速生成歌曲和音乐",
+                "url": "https://beatbot.fm/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/beatbot-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI视频工具",
+        "list": [
+            {
+                "h_title": "Runway",
+                "text": "最强AI视频工具，绿幕抠除、视频生成、动态捕捉等",
+                "url": "https://runwayml.com/green-screen/",
+                "imageurl": "./iconsimage/runwayml-icon.png"
+            },
+            {
+                "h_title": "D-ID",
+                "text": "AI真人口播视频生成工具",
+                "url": "https://www.d-id.com/",
+                "imageurl": "./iconsimage/d-id-icon.png"
+            },
+            {
+                "h_title": "Artflow",
+                "text": "AI创建生成视频动画",
+                "url": "https://www.app.artflow.ai/",
+                "imageurl": "./iconsimage/artflow-ai-icon.png"
+            },
+            {
+                "h_title": "Unscreen",
+                "text": "AI智能视频背景移除工具",
+                "url": "https://www.unscreen.com/",
+                "imageurl": "./iconsimage/unscreen-icon.png"
+            },
+            {
+                "h_title": "Lumen5",
+                "text": "AI将博客文章转换成视频",
+                "url": "https://lumen5.com/",
+                "imageurl": "./iconsimage/lumen5-icon.png"
+            },
+            {
+                "h_title": "DeepBrain",
+                "text": "AI视频生成工具",
+                "url": "https://www.deepbrain.io/",
+                "imageurl": "./iconsimage/deepbrain-ai-icon.png"
+            },
+            {
+                "h_title": "DreamFace",
+                "text": "让图片动起来的AI工具",
+                "url": "https://dreamfaceapp.com/",
+                "imageurl": "./iconsimage/dreamface-icon.png"
+            },
+            {
+                "h_title": "腾讯智影",
+                "text": "腾讯推出的在线智能视频创作平台",
+                "url": "https://zenvideo.qq.com/",
+                "imageurl": "./iconsimage/zenvideo-qq-icon.png"
+            },
+            {
+                "h_title": "Fliki",
+                "text": "AI文字转视频并配音",
+                "url": "https://fliki.ai/",
+                "imageurl": "./iconsimage/fliki-icon.png"
+            },
+            {
+                "h_title": "Synthesia",
+                "text": "AI视频生成平台",
+                "url": "https://www.synthesia.io/",
+                "imageurl": "./iconsimage/synthesia-ai-icon.png"
+            },
+            {
+                "h_title": "Rephrase.ai",
+                "text": "AI文字到视频生成",
+                "url": "https://www.rephrase.ai/",
+                "imageurl": "./iconsimage/rephrase-ai-icon.png"
+            },
+            {
+                "h_title": "Synthesys",
+                "text": "AI虚拟人出镜讲解",
+                "url": "https://synthesys.io/",
+                "imageurl": "./iconsimage/synthesys-icon.png"
+            },
+            {
+                "h_title": "Veed Video Background Remover",
+                "text": "Veed推出的AI视频背景移除工具",
+                "url": "https://www.veed.io/zh-CN/tools/video-background-remover",
+                "imageurl": "./iconsimage/veed-io-icon.png"
+            },
+            {
+                "h_title": "Hour One",
+                "text": "人工智能文字到视频生成",
+                "url": "https://hourone.ai/",
+                "imageurl": "./iconsimage/hourone-ai-icon.png"
+            },
+            {
+                "h_title": "BgRem",
+                "text": "无水印AI视频背景移除",
+                "url": "https://bgrem.deelvin.com/zh/remove_video_bg/?params=start",
+                "imageurl": "./iconsimage/bgrem-icon.png"
+            },
+            {
+                "h_title": "Colourlab.ai",
+                "text": "好莱坞也在用的AI视频颜色分级工具",
+                "url": "https://colourlab.ai/",
+                "imageurl": "./iconsimage/colourlab-icon.png"
+            },
+            {
+                "h_title": "Cutout.Pro",
+                "text": "AI一键视频背景移除",
+                "url": "https://www.cutout.pro/zh-CN/remove-video-background",
+                "imageurl": "./iconsimage/cutout-pro-icon.png"
+            },
+            {
+                "h_title": "Colossyan",
+                "text": "AI虚拟人出镜视频生成",
+                "url": "https://www.colossyan.com/",
+                "imageurl": "./iconsimage/colossyan-icon.png"
+            },
+            {
+                "h_title": "AVCLabs",
+                "text": "AI自动移除视频背景",
+                "url": "https://app.avclabs.com/#/",
+                "imageurl": "./iconsimage/avclabs-icon.png"
+            },
+            {
+                "h_title": "Movio",
+                "text": "AI真人出镜视频讲解",
+                "url": "https://www.movio.la/",
+                "imageurl": "./iconsimage/movio-icon.png"
+            },
+            {
+                "h_title": "Elai.io",
+                "text": "AI文本到视频生成工具",
+                "url": "https://elai.io/",
+                "imageurl": "./iconsimage/elai.io-icon.png"
+            },
+            {
+                "h_title": "Pictory",
+                "text": "AI视频制作工具",
+                "url": "https://pictory.ai/",
+                "imageurl": "./iconsimage/pictory-ai-icon.png"
+            },
+            {
+                "h_title": "SteveAI",
+                "text": "Animaker旗下AI在线视频制作工具",
+                "url": "https://www.steve.ai/",
+                "imageurl": "./iconsimage/steve-ai-icon.png"
+            },
+            {
+                "h_title": "一帧秒创",
+                "text": "简单好用的AI智能视频创作平台",
+                "url": "https://aigc.yizhentv.com/",
+                "imageurl": "./iconsimage/aigc-yizhentv-icon.png"
+            },
+            {
+                "h_title": "度加创作工具",
+                "text": "百度官方出品的AIGC创作平台",
+                "url": "https://aigc.baidu.com/",
+                "imageurl": "./iconsimage/aigc-baidu-icon.png"
+            },
+            {
+                "h_title": "快剪辑",
+                "text": "360旗下的AI视频剪辑工具，AI成片、AI数字人、智能添加字幕、去水印等",
+                "url": "https://www.kuaijianji.com/",
+                "imageurl": "./iconsimage/kuaijianji-icon.png"
+            },
+            {
+                "h_title": "Wonder Studio",
+                "text": "AI自动为CG角色制作动画、打光并将其合成到真人场景中",
+                "url": "https://wonderdynamics.com",
+                "imageurl": "./iconsimage/wonder-dynamics-icon.png"
+            },
+            {
+                "h_title": "EbSynth",
+                "text": "AI将真人视频转化为油画风动画",
+                "url": "https://ebsynth.com/",
+                "imageurl": "./iconsimage/ebsynth-icon.png"
+            },
+            {
+                "h_title": "Kaiber",
+                "text": "图片文字转视频的AI引擎",
+                "url": "https://kaiber.ai/",
+                "imageurl": "./iconsimage/kaiber-ai-icon.png"
+            },
+            {
+                "h_title": "DeepBrain",
+                "text": "AI口播视频生成工具",
+                "url": "https://www.deepbrain.io/",
+                "imageurl": "./iconsimage/deepbrain-ai-icon.png"
+            },
+            {
+                "h_title": "Lumen5",
+                "text": "AI将博客文章转换成视频",
+                "url": "https://lumen5.com/",
+                "imageurl": "./iconsimage/lumen5-icon.png"
+            },
+            {
+                "h_title": "来画",
+                "text": "动画和数字人智能生成平台",
+                "url": "https://www.laihua.com/",
+                "imageurl": "./iconsimage/laihua-icon.png"
+            },
+            {
+                "h_title": "万兴播爆",
+                "text": "万兴科技推出的AI数字人口播视频营销工具",
+                "url": "https://virbo.wondershare.cn",
+                "imageurl": "./iconsimage/virbo-wondershare-icon.png"
+            },
+            {
+                "h_title": "奇妙元",
+                "text": "AI数字人视频生成平台，由出门问问推出",
+                "url": "https://weta365.com/conduct",
+                "imageurl": "./iconsimage/weta365-icon.png"
+            },
+            {
+                "h_title": "HeyGen",
+                "text": "AIGC 视频创建平台，生成吸引人的商业视频",
+                "url": "https://www.heygen.com/",
+                "imageurl": "./iconsimage/heygen-icon.png"
+            },
+            {
+                "h_title": "万彩微影",
+                "text": "AI智能自动生成动画短视频",
+                "url": "https://www.animiz.cn/microvideo/",
+                "imageurl": "./iconsimage/animiz-microvideo-icon.png"
+            },
+            {
+                "h_title": "绘影字幕",
+                "text": "一键智能在线自动为视频加字幕",
+                "url": "https://huiyingzimu.com/",
+                "imageurl": "./iconsimage/huiyingzimu-icon.png"
+            },
+            {
+                "h_title": "Gencraft",
+                "text": "AI艺术画视频生成工具",
+                "url": "https://gencraft.com/",
+                "imageurl": "./iconsimage/gencraft-icon.png"
+            },
+            {
+                "h_title": "SteveAI",
+                "text": "Animaker旗下AI在线视频制作工具",
+                "url": "https://www.steve.ai/",
+                "imageurl": "./iconsimage/steve-ai-icon.png"
+            },
+            {
+                "h_title": "Neurodub",
+                "text": "端到端的AI视频语音本地化工具",
+                "url": "https://neurodub.ai",
+                "imageurl": "./iconsimage/neurodub-ai-icon.png"
+            },
+            {
+                "h_title": "Rask",
+                "text": "AI视频本地化解决方案",
+                "url": "https://www.rask.ai/",
+                "imageurl": "./iconsimage/rask-ai-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI设计工具",
+        "list": [
+            {
+                "h_title": "Microsoft Designer",
+                "text": "微软推出的AI海报和宣传图设计工具，类似于AI加持版Canva",
+                "url": "https://designer.microsoft.com/",
+                "imageurl": "./iconsimage/microsoft-designer-icon.png"
+            },
+            {
+                "h_title": "Magic Design",
+                "text": "在线设计工具Canva推出的AI设计工具",
+                "url": "https://www.canva.com/magic-design/",
+                "imageurl": "./iconsimage/canva-icon.png"
+            },
+            {
+                "h_title": "Looka",
+                "text": "AI在线设计和生成logo",
+                "url": "https://looka.com/",
+                "imageurl": "./iconsimage/looka-icon.png"
+            },
+            {
+                "h_title": "Designs.ai",
+                "text": "AI设计工具",
+                "url": "https://designs.ai/",
+                "imageurl": "./iconsimage/designs-ai-icon.png"
+            },
+            {
+                "h_title": "Galileo AI",
+                "text": "AI高保真原型设计",
+                "url": "https://www.usegalileo.ai/",
+                "imageurl": "./iconsimage/galileo-ai-icon.png"
+            },
+            {
+                "h_title": "illostrationAI",
+                "text": "AI插画生成，low poly、3D、矢量、logo、像素风、皮克斯等风格",
+                "url": "https://www.illostration.com/",
+                "imageurl": "./iconsimage/illostration-ai-icon.png"
+            },
+            {
+                "h_title": "Uizard",
+                "text": "AI网页、App和UI设计",
+                "url": "https://uizard.io/",
+                "imageurl": "./iconsimage/uizard-icon.png"
+            },
+            {
+                "h_title": "Luma AI",
+                "text": "AI 3D捕捉、建模和渲染",
+                "url": "https://lumalabs.ai/",
+                "imageurl": "./iconsimage/luma-ai-icon.png"
+            },
+            {
+                "h_title": "即时AI",
+                "text": "即时设计推出的由文本描述生成可编辑的原型设计稿",
+                "url": "https://js.design/ai-upcoming/",
+                "imageurl": "./iconsimage/js-design-icon.png"
+            },
+            {
+                "h_title": "Poly",
+                "text": "AI生成3D材质",
+                "url": "https://withpoly.com/browse/textures",
+                "imageurl": "./iconsimage/poly-3d-ai-icon.png"
+            },
+            {
+                "h_title": "Illustroke",
+                "text": "AI SVG矢量插画生成工具",
+                "url": "https://illustroke.com/",
+                "imageurl": "./iconsimage/illustroke-ai.png"
+            },
+            {
+                "h_title": "Eva Design System",
+                "text": "基于深度学习的色彩生成工具",
+                "url": "https://colors.eva.design/",
+                "imageurl": "./iconsimage/eva-design-icon.png"
+            },
+            {
+                "h_title": "Color Wheel",
+                "text": "AI灰度logo或插画上色工具",
+                "url": "https://brandmark.io/color-wheel/",
+                "imageurl": "./iconsimage/brandmark-icon.png"
+            },
+            {
+                "h_title": "Huemint",
+                "text": "AI调色生成工具",
+                "url": "https://huemint.com/",
+                "imageurl": "./iconsimage/huemint-icon.png"
+            },
+            {
+                "h_title": "ColorMagic",
+                "text": "AI调色板生成工具",
+                "url": "https://www.obviously.ai/",
+                "imageurl": "./iconsimage/colormagic-app-icon.png"
+            },
+            {
+                "h_title": "Logomaster.ai",
+                "text": "AI Logo生成工具",
+                "url": "https://logomaster.ai/",
+                "imageurl": "./iconsimage/logomaster-ai-con.png"
+            },
+            {
+                "h_title": "Magician",
+                "text": "Figma插件，AI生成图标、图片和UX文案",
+                "url": "https://magician.design/",
+                "imageurl": "./iconsimage/magician-icon.png"
+            },
+            {
+                "h_title": "Appicons AI",
+                "text": "AI生成精美App图标",
+                "url": "https://appicons.ai/",
+                "imageurl": "./iconsimage/appicons-ai-icon.png"
+            },
+            {
+                "h_title": "IconifyAI",
+                "text": "AI App图标生成器",
+                "url": "https://www.iconifyai.com/",
+                "imageurl": "./iconsimage/iconifyai-icon.png"
+            },
+            {
+                "h_title": "Khroma",
+                "text": "AI调色盘生成工具",
+                "url": "https://www.khroma.co/",
+                "imageurl": "./iconsimage/khroma-icon.png"
+            },
+            {
+                "h_title": "稿定AI",
+                "text": "一站式AI创意工具集合，AI绘图、场景生成，商品合成",
+                "url": "https://www.gaoding.com/",
+                "imageurl": "./iconsimage/gaoding-design-icon.png"
+            },
+            {
+                "h_title": "美图设计室",
+                "text": "美图推出的AI海报设计工具，一键生成海报宣传图",
+                "url": "https://design.meitu.com/poster/",
+                "imageurl": "./iconsimage/meitu-ai-ppt.jpg"
+            },
+            {
+                "h_title": "智绘设计",
+                "text": "腾讯推出的智能设计平台，让内容更精彩",
+                "url": "https://taishan.qq.com/brand/",
+                "imageurl": "./iconsimage/taishan-qq-icon.png"
+            },
+            {
+                "h_title": "阿里云智能logo设计",
+                "text": "阿里云推出的智能Logo设计",
+                "url": "https://logo.aliyun.com/logo",
+                "imageurl": "./iconsimage/aliyun-icon.png"
+            },
+            {
+                "h_title": "AIDesign",
+                "text": "腾讯推出的免费AI Logo在线设计工具",
+                "url": "https://ailogo.qq.com/guide/brandname",
+                "imageurl": "./iconsimage/ailogo-qq-icon.png"
+            },
+            {
+                "h_title": "鹿班",
+                "text": "阿里推出的智能设计商品图和海报的平台",
+                "url": "https://luban.aliyun.com/",
+                "imageurl": "./iconsimage/luban-icon.png"
+            },
+            {
+                "h_title": "羚珑",
+                "text": "京东推出的商品图智能设计小工具",
+                "url": "https://ling.jd.com",
+                "imageurl": "./iconsimage/ling-jd-icon.png"
+            },
+            {
+                "h_title": "墨刀AI",
+                "text": "墨刀推出的AI产品原型设计助手",
+                "url": "https://modao.cc/",
+                "imageurl": "./iconsimage/modao-icon.png"
+            },
+            {
+                "h_title": "Recraft AI",
+                "text": "免费无限AI画板，生成高质量矢量艺术画、图标、3D图片和插画",
+                "url": "https://www.recraft.ai/",
+                "imageurl": "./iconsimage/recraft-ai-icon.png"
+            },
+            {
+                "h_title": "Framer AI",
+                "text": "Framer推出的AI网站自动设计、生成和上线",
+                "url": "https://www.framer.com/ai",
+                "imageurl": "./iconsimage/framer-icon.png"
+            },
+            {
+                "h_title": "Fabrie AI",
+                "text": "在线白板协作平台Fabrie推出的AI设计助手，支持多种渲染模式",
+                "url": "https://www.fabrie.cn/ai/copilot",
+                "imageurl": "./iconsimage/fabrie-icon.png"
+            },
+            {
+                "h_title": "MasterGo AI",
+                "text": "国产产品设计工具MasterGo推出的智能UI设计助手",
+                "url": "https://mastergo.com/upcoming-ai/apply",
+                "imageurl": "./iconsimage/mastergo-ai-icon.png"
+            },
+            {
+                "h_title": "LogoliveryAI",
+                "text": "免费的AI Logo生成器，提供SVG矢量格式",
+                "url": "https://logolivery.ai/",
+                "imageurl": "./iconsimage/logoliveryai-icon.png"
+            },
+            {
+                "h_title": "Realibox AI",
+                "text": "AI免费将草图/模型生成3D渲染图",
+                "url": "https://www.realibox.com/product/ai",
+                "imageurl": "./iconsimage/logoliveryai-icon.png"
+            },
+            {
+                "h_title": "Vectorizer.AI",
+                "text": "AI一键将位图转换为矢量图片",
+                "url": "https://vectorizer.ai/",
+                "imageurl": "./iconsimage/logoliveryai-icon.png"
+            },
+            {
+                "h_title": "模袋云AI",
+                "text": "建筑AI创作平台，专注于大型建筑、小型住宅、室内设计、景观的出图和AI模型训练",
+                "url": "https://www.modaiyun.com/mdy/ai",
+                "imageurl": "./iconsimage/modaiyun-ai-icon.png"
+            },
+            {
+                "h_title": "Vizcom",
+                "text": "AI渲染转化手绘图为产品设计图",
+                "url": "https://www.vizcom.ai",
+                "imageurl": "./iconsimage/vizcom-ai-icon.png"
+            },
+            {
+                "h_title": "Dora AI",
+                "text": "AI在线生成精美3D动画的网站",
+                "url": "https://www.dora.run/ai",
+                "imageurl": "./iconsimage/dora-ai-icon.png"
+            },
+            {
+                "h_title": "Spline AI",
+                "text": "Spline推出的AI生成3D物体、动画、材质",
+                "url": "https://spline.design/ai",
+                "imageurl": "./iconsimage/spline-ai-icon.png"
+            },
+            {
+                "h_title": "图宇宙",
+                "text": "高品质AI智能设计平台",
+                "url": "https://www.nolibox.com/introduction",
+                "imageurl": "./iconsimage/tuyuzhou-icon.png"
+            },
+            {
+                "h_title": "美间",
+                "text": "AI软装设计、海报和提案生成工具",
+                "url": "https://www.meijian.com/",
+                "imageurl": "./iconsimage/meijian-icon.png"
+            },
+            {
+                "h_title": "Alpaca",
+                "text": "将生成式AI集成到Photoshop图像设计中",
+                "url": "https://www.getalpaca.io/",
+                "imageurl": "./iconsimage/getalpaca-icon.png"
+            },
+            {
+                "h_title": "Realibox AI",
+                "text": "AI免费将草图/模型生成3D渲染图",
+                "url": "https://www.realibox.com/product/ai",
+                "imageurl": "./iconsimage/realibox-icon.png"
+            },
+            {
+                "h_title": "Vectorizer.AI",
+                "text": "AI一键将位图转换为矢量图片",
+                "url": "https://vectorizer.ai/",
+                "imageurl": "./iconsimage/vectorizer-ai-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI编程工具",
+        "list": [
+            {
+                "h_title": "GitHub Copilot",
+                "text": "GitHub AI编程工具",
+                "url": "https://github.com/features/copilot",
+                "imageurl": "./iconsimage/github-copilot-icon.png"
+            },
+            {
+                "h_title": "Codeium",
+                "text": "AI代码生成和补全",
+                "url": "https://www.codeium.com/",
+                "imageurl": "./iconsimage/codeium-icon.png"
+            },
+            {
+                "h_title": "Tabnine",
+                "text": "AI代码自动补全编程助手",
+                "url": "https://www.tabnine.com/",
+                "imageurl": "./iconsimage/tabnine-icon.png"
+            },
+            {
+                "h_title": "Sketch2Code",
+                "text": "微软AI Lab推出的将手绘草图转换成HTML代码工具",
+                "url": "https://sketch2code.azurewebsites.net/",
+                "imageurl": "./iconsimage/sketch2code-icon.png"
+            },
+            {
+                "h_title": "CodiumAI",
+                "text": "AI代码测试工具",
+                "url": "https://www.codium.ai/",
+                "imageurl": "./iconsimage/codiumai-icon.png"
+            },
+            {
+                "h_title": "Codiga",
+                "text": "AI代码实时分析",
+                "url": "https://www.codiga.io/",
+                "imageurl": "./iconsimage/codiga-icon.png"
+            },
+            {
+                "h_title": "AskCodi",
+                "text": "你的个人AI编程助手",
+                "url": "https://www.askcodi.com/",
+                "imageurl": "./iconsimage/askcodi-icon.png"
+            },
+            {
+                "h_title": "AirOps",
+                "text": "AI SQL语句生成和修改",
+                "url": "https://www.airops.com/",
+                "imageurl": "./iconsimage/airops-icon.png"
+            },
+            {
+                "h_title": "Ghostwriter",
+                "text": "知名在线编程IDE Replit推出的AI编程助手",
+                "url": "https://replit.com/site/ghostwriter",
+                "imageurl": "./iconsimage/replit-icon.png"
+            },
+            {
+                "h_title": "Cursor",
+                "text": "AI编程和软件开发",
+                "url": "https://www.cursor.so/",
+                "imageurl": "./iconsimage/cursor-so-icon.png"
+            },
+            {
+                "h_title": "Locofy",
+                "text": "AI无代码工具将Figma、Adobe XD和Sketch设计转换成前端代码",
+                "url": "https://www.locofy.ai/",
+                "imageurl": "./iconsimage/locofy-ai-icon.png"
+            },
+            {
+                "h_title": "Fronty",
+                "text": "AI智能将图片转换成HTML和CSS代码",
+                "url": "https://fronty.com/",
+                "imageurl": "./iconsimage/fronty-icon.png"
+            },
+            {
+                "h_title": "MarsX",
+                "text": "AI无代码软件开发",
+                "url": "https://www.marsx.dev/",
+                "imageurl": "./iconsimage/marsx.dev-icon.png"
+            },
+            {
+                "h_title": "Warp",
+                "text": "21世纪的终端工具（内置AI命令搜索）",
+                "url": "https://www.warp.dev/",
+                "imageurl": "./iconsimage/warp-dev-icon.png"
+            },
+            {
+                "h_title": "Fig",
+                "text": "下一代命令行工具（内置AI终端命令自动补全）",
+                "url": "https://fig.io/",
+                "imageurl": "./iconsimage/fig-icon.png"
+            },
+            {
+                "h_title": "CodeSnippets",
+                "text": "AI代码生成、补全、分析、重构和调试",
+                "url": "https://codesnippets.ai/",
+                "imageurl": "./iconsimage/codesnippets-icon.png"
+            },
+            {
+                "h_title": "HTTPie AI",
+                "text": "AI API开发工具",
+                "url": "https://httpie.io/ai",
+                "imageurl": "./iconsimage/ed3195db-a392-4595-b559-4bd5576eab29.gif"
+            },
+            {
+                "h_title": "AI Code Reviewer",
+                "text": "AI代码检查",
+                "url": "https://ai-code-reviewer.com/",
+                "imageurl": "./iconsimage/ai-code-reviewer-icon.png"
+            },
+            {
+                "h_title": "Visual Studio IntelliCode",
+                "text": "Visual Studio AI辅助开发",
+                "url": "https://visualstudio.microsoft.com/zh-hans/services/intellicode/",
+                "imageurl": "./iconsimage/vs-intellicode-icon.png"
+            },
+            {
+                "h_title": "HeyCLI",
+                "text": "自然语言转义为CLI命令",
+                "url": "https://www.heycli.com/",
+                "imageurl": "./iconsimage/heycli-icon.png"
+            },
+            {
+                "h_title": "CodeWhisperer",
+                "text": "亚马逊最新发布的免费AI编程助手",
+                "url": "https://aws.amazon.com/codewhisperer",
+                "imageurl": "./iconsimage/codewhisperer-icon.png"
+            },
+            {
+                "h_title": "Cody",
+                "text": "Sourcegraph推出的免费AI编程工具",
+                "url": "https://about.sourcegraph.com/cody",
+                "imageurl": "./iconsimage/sourcegraph-cody-icon.png"
+            },
+            {
+                "h_title": "BLACKBOX AI",
+                "text": "黑箱AI编程助理，快速代码生成",
+                "url": "https://www.useblackbox.io/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/blackbox-ai-icon.png"
+            },
+            {
+                "h_title": "CodeArts Snap",
+                "text": "华为云推出的智能编程助手",
+                "url": "https://www.huaweicloud.com/lab/paas/codeartssnap.html",
+                "imageurl": "./iconsimage/codearts-snap-icon.png"
+            },
+            {
+                "h_title": "CodeGeex",
+                "text": "国内团队开发的免费AI编程助手",
+                "url": "https://codegeex.cn/zh-CN",
+                "imageurl": "./iconsimage/codegeex-icon.png"
+            },
+            {
+                "h_title": "Boxy",
+                "text": "CodeSandbox推出的AI编程助手",
+                "url": "https://codesandbox.io/blog/meet-boxy-ai-coding-assistant",
+                "imageurl": "./iconsimage/codesandbox-boxy-icon.png"
+            },
+            {
+                "h_title": "Quest AI",
+                "text": "AI将设计稿生成React代码，支持JavaScript和TypeScript",
+                "url": "https://www.quest.ai/",
+                "imageurl": "./iconsimage/quest-ai-icon.png"
+            },
+            {
+                "h_title": "天工智码Skycode",
+                "text": "AI智能编程助手，轻松生成各种代码",
+                "url": "https://sky-code.singularity-ai.com/index.html#",
+                "imageurl": "./iconsimage/skycode-icon-1.png"
+            },
+            {
+                "h_title": "JamGPT",
+                "text": "AI Debug调试助手",
+                "url": "https://jam.dev/jamgpt",
+                "imageurl": "./iconsimage/jamgpt-icon.png"
+            },
+            {
+                "h_title": "aiXcoder",
+                "text": "自然语言到代码的方法级代码生成，以及多行智能代码补全",
+                "url": "https://www.aixcoder.com",
+                "imageurl": "./iconsimage/aixcoder-icon.png"
+            },
+            {
+                "h_title": "Imgcook",
+                "text": "阿里推出的免费设计稿智能生成前端代码",
+                "url": "https://www.imgcook.com",
+                "imageurl": "./iconsimage/imgcook-icon.png"
+            },
+            {
+                "h_title": "Deco",
+                "text": "京东推出的设计稿一键生成多端代码工具",
+                "url": "https://ling-deco.jd.com",
+                "imageurl": "./iconsimage/deco-icon.png"
+            },
+            {
+                "h_title": "Mutable AI",
+                "text": "人工智能加速软件开发",
+                "url": "https://mutable.ai",
+                "imageurl": "./iconsimage/mutable-ai-icon.png"
+            },
+            {
+                "h_title": "Debuild",
+                "text": "低代码快速开发网页应用",
+                "url": "https://debuild.app",
+                "imageurl": "./iconsimage/debuild-app-icon.png"
+            },
+            {
+                "h_title": "Hocoos",
+                "text": "无代码AI智能在线快速创建网站",
+                "url": "https://hocoos.com",
+                "imageurl": "./iconsimage/hocoos-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI对话聊天",
+        "list": [
+            {
+                "h_title": "ChatGPT",
+                "text": "OpenAI旗下AI对话工具",
+                "url": "https://chat.openai.com/",
+                "imageurl": "./iconsimage/chatgpt-icon.png"
+            },
+            {
+                "h_title": "Bing新必应",
+                "text": "微软推出的新版结合了ChatGPT功能的必应",
+                "url": "https://www.bing.com/",
+                "imageurl": "./iconsimage/new-bing-icon.png"
+            },
+            {
+                "h_title": "文心一言",
+                "text": "百度推出的基于文心大模型的AI对话互动工具",
+                "url": "https://yiyan.baidu.com",
+                "imageurl": "./iconsimage/baidu-yiyan-icon.png"
+            },
+            {
+                "h_title": "Google Bard",
+                "text": "Google推出的AI聊天对话机器人Bard",
+                "url": "https://bard.google.com/",
+                "imageurl": "./iconsimage/google-bard-favicon.png"
+            },
+            {
+                "h_title": "Claude",
+                "text": "Anthropic推出的类ChatGPT生成式对话机器人",
+                "url": "https://www.anthropic.com/earlyaccess",
+                "imageurl": "./iconsimage/anthropic-icon.png"
+            },
+            {
+                "h_title": "Poe",
+                "text": "问答社区Quora推出的问答机器人工具",
+                "url": "https://poe.com/",
+                "imageurl": "./iconsimage/quora-poe-icon.png"
+            },
+            {
+                "h_title": "Character.AI",
+                "text": "创建虚拟角色并与其对话",
+                "url": "https://character.ai/",
+                "imageurl": "./iconsimage/character-ai-icon.png"
+            },
+            {
+                "h_title": "Jasper Chat",
+                "text": "Jasper针对内容创作者出品的AI聊天工具",
+                "url": "https://www.jasper.ai/chat",
+                "imageurl": "./iconsimage/jasper-ai-icon.png"
+            },
+            {
+                "h_title": "YouChat",
+                "text": "AI搜索对话工具",
+                "url": "https://you.com/chat",
+                "imageurl": "./iconsimage/youchat-icon.png"
+            },
+            {
+                "h_title": "ChatSonic",
+                "text": "WriteSonic出品的ChatGPT竞品",
+                "url": "https://writesonic.com/chat",
+                "imageurl": "./iconsimage/chatsonic-ai-icon.png"
+            },
+            {
+                "h_title": "Replika",
+                "text": "AI对话陪伴工具",
+                "url": "https://replika.com/",
+                "imageurl": "./iconsimage/replika-ai-icon.png"
+            },
+            {
+                "h_title": "Whispr",
+                "text": "免费AI对话回应",
+                "url": "https://whispr.chat/",
+                "imageurl": "./iconsimage/whispr-icon.png"
+            },
+            {
+                "h_title": "对话写作猫",
+                "text": "秘塔写作猫推出的AI对话聊天工具",
+                "url": "https://xiezuocat.com/chat?s=aigj",
+                "imageurl": "./iconsimage/xiezuocat-ai-icon.png"
+            },
+            {
+                "h_title": "百度AI伙伴",
+                "text": "百度最新上线的AI搜索对话工具",
+                "url": "https://chat.baidu.com",
+                "imageurl": "./iconsimage/chat-baidu-icon.png"
+            },
+            {
+                "h_title": "魔搭GPT（ModelScopeGPT）",
+                "text": "阿里达摩院推出的大小模型协同的智能助手，具备作诗、绘画、视频生成、语音播放等多模态能力",
+                "url": "https://www.modelscope.cn/studios/damo/ModelScopeGPT",
+                "imageurl": "./iconsimage/modelscope-icon.png"
+            },
+            {
+                "h_title": "Forefront",
+                "text": "免费版基于GPT-4的AI聊天机器人",
+                "url": "https://www.forefront.ai/",
+                "imageurl": "./iconsimage/forefront-ai-icon.png"
+            },
+            {
+                "h_title": "HuggingChat",
+                "text": "HuggingFace推出的在线聊天机器人，基于Open Assistant模型",
+                "url": "https://huggingface.co/chat/",
+                "imageurl": "./iconsimage/huggingchat-icon.png"
+            },
+            {
+                "h_title": "TigerBot",
+                "text": "虎博科技推出的AI对话聊天机器人，基于TigerBot开源大模型",
+                "url": "https://tigerbot.com/",
+                "imageurl": "./iconsimage/tigerbot-icon.png"
+            },
+            {
+                "h_title": "ColossalChat",
+                "text": "Colossal-AI推出的免费开源版ChatGPT聊天机器人替代品",
+                "url": "https://chat.colossalai.org/",
+                "imageurl": "./iconsimage/colossal-chat-icon.png"
+            },
+            {
+                "h_title": "Open Assistant",
+                "text": "免费开源的对话式AI，GitHub星标超3万",
+                "url": "https://github.com/LAION-AI/Open-Assistant",
+                "imageurl": "./iconsimage/oepn-assistant-icon.png"
+            },
+            {
+                "h_title": "Pi",
+                "text": "DeepMind联创新公司推出的AI聊天机器人",
+                "url": "https://pi.ai/talk",
+                "imageurl": "./iconsimage/heypi-icon.png"
+            },
+            {
+                "h_title": "通义千问",
+                "text": "阿里巴巴最新推出的类ChatGPT响应人类指令的大模型",
+                "url": "https://tongyi.aliyun.com",
+                "imageurl": "./iconsimage/tongyi-aliyun-icon.png"
+            },
+            {
+                "h_title": "Inworld",
+                "text": "开发和创建AI虚拟角色并与其互动",
+                "url": "https://www.inworld.ai/",
+                "imageurl": "./iconsimage/inworld-icon.png"
+            },
+            {
+                "h_title": "360智脑",
+                "text": "360搜索最新推出的AI对话聊天机器人",
+                "url": "https://ai.360.cn/?src=ai-bot.cn",
+                "imageurl": "./iconsimage/ai-360-icon.png"
+            },
+            {
+                "h_title": "Neeva",
+                "text": "集成了AI问答的AI搜索引擎",
+                "url": "https://ai-bot.cn/sites/1890.html",
+                "imageurl": "./iconsimage/neeva-icon.png"
+            },
+            {
+                "h_title": "MOSS",
+                "text": "复旦大学团队开发的对话式大型语言模型",
+                "url": "https://moss.fastnlp.top",
+                "imageurl": "./iconsimage/moss-icon.png"
+            },
+            {
+                "h_title": "讯飞星火认知大模型",
+                "text": "科大讯飞推出的类ChatGPT的讯飞星火认知大模型",
+                "url": "http://xinghuo.xfyun.cn",
+                "imageurl": "./iconsimage/xinghuo-xfyun-icon.png"
+            },
+            {
+                "h_title": "ChatGLM",
+                "text": "开源的、支持中英双语的1300亿参数的对话语言模型",
+                "url": "https://chatglm.cn",
+                "imageurl": "./iconsimage/chatglm-icon.png"
+            },
+            {
+                "h_title": "商量SenseChat",
+                "text": "商汤科技推出的类ChatGPT的人工智能大语言模型",
+                "url": "https://chat.sensetime.com/wb",
+                "imageurl": "./iconsimage/sensechat-icon.png"
+            },
+            {
+                "h_title": "天工AI助手",
+                "text": "昆仑万维与奇点智源联合研发的对标ChatGPT的大语言模型",
+                "url": "https://tiangong.kunlun.com",
+                "imageurl": "./iconsimage/tiangong-kunlun-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI办公工具",
+        "list": [
+            {
+                "h_title": "Gamma App",
+                "text": "AI幻灯片演示生成工具",
+                "url": "https://gamma.app/",
+                "imageurl": "./iconsimage/gamma-app-icon.png"
+            },
+            {
+                "h_title": "Decktopus AI",
+                "text": "高质量AI演示文稿生成工具",
+                "url": "https://www.decktopus.com/",
+                "imageurl": "./iconsimage/decktopus-ai-icon.png"
+            },
+            {
+                "h_title": "PandaGPT",
+                "text": "AI文档要点总结工具",
+                "url": "https://www.pandagpt.io/",
+                "imageurl": "./iconsimage/pandagpt-icon.png"
+            },
+            {
+                "h_title": "Tome",
+                "text": "AI创作叙事性幻灯片",
+                "url": "https://tome.app/",
+                "imageurl": "./iconsimage/tome-app-icon.png"
+            },
+            {
+                "h_title": "ChatBA",
+                "text": "AI幻灯片生成工具",
+                "url": "https://www.chatba.com/",
+                "imageurl": "./iconsimage/chatba-icon.png"
+            },
+            {
+                "h_title": "Whimsical",
+                "text": "Whimsical推出的AI思维导图工具",
+                "url": "https://whimsical.com/ai-mind-maps",
+                "imageurl": "./iconsimage/ezgif-5-22ff7a7f5f.gif"
+            },
+            {
+                "h_title": "Powerpresent AI",
+                "text": "AI创建精美的演示稿",
+                "url": "https://present.yaara.ai/",
+                "imageurl": "./iconsimage/powerpresent-ai-icon.png"
+            },
+            {
+                "h_title": "beautiful.ai",
+                "text": "AI创建展示幻灯片",
+                "url": "https://www.beautiful.ai/",
+                "imageurl": "./iconsimage/beautiful-ai-icon.png"
+            },
+            {
+                "h_title": "酷表ChatExcel",
+                "text": "北大团队开发的通过聊天来操作Excel表格的AI工具",
+                "url": "https://chatexcel.com/",
+                "imageurl": "./iconsimage/chatexcel-icon.png"
+            },
+            {
+                "h_title": "AmyMind",
+                "text": "开箱即用的在线AI思维导图工具",
+                "url": "https://amymind.com/",
+                "imageurl": "./iconsimage/amymind-icon.png"
+            },
+            {
+                "h_title": "Presentations.AI",
+                "text": "演示文档版的ChatGPT",
+                "url": "https://www.presentations.ai/",
+                "imageurl": "./iconsimage/presentations-ai-icon.png"
+            },
+            {
+                "h_title": "飞书妙记",
+                "text": "飞书智能会议纪要和快捷语音识别转文字",
+                "url": "https://www.feishu.cn/product/minutes",
+                "imageurl": "./iconsimage/feishu-minutes-icon.png"
+            },
+            {
+                "h_title": "讯飞听见",
+                "text": "科大讯飞推出的AI智能会议系统，实时字幕、实时翻译、自动生成会议记录",
+                "url": "https://meeting.iflyrec.com/",
+                "imageurl": "./iconsimage/meeting-iflyrec-icon.png"
+            },
+            {
+                "h_title": "Ajelix",
+                "text": "处理Excel和Google Sheets表格的AI工具",
+                "url": "https://ajelix.com/",
+                "imageurl": "./iconsimage/ajelix-icon.png"
+            },
+            {
+                "h_title": "Sheet+",
+                "text": "Excel和Google Sheets表格AI处理工具",
+                "url": "https://sheetplus.ai/",
+                "imageurl": "./iconsimage/sheetplus-icon.png"
+            },
+            {
+                "h_title": "ExcelFormulaBot",
+                "text": "AI将指令转换成Excel的函数公式",
+                "url": "https://excelformulabot.com/",
+                "imageurl": "./iconsimage/excelfomulabot-icon.png"
+            },
+            {
+                "h_title": "Timely",
+                "text": "AI时间管理跟踪软件",
+                "url": "https://timelyapp.com/",
+                "imageurl": "./iconsimage/timely-app-icon.png"
+            },
+            {
+                "h_title": "Fireflies.ai",
+                "text": "AI会议转录和会议纪要生成工具",
+                "url": "https://fireflies.ai/",
+                "imageurl": "./iconsimage/fireflies-ai-icon.png"
+            },
+            {
+                "h_title": "Otter.ai",
+                "text": "AI会议内容生成和实时转录",
+                "url": "https://otter.ai/",
+                "imageurl": "./iconsimage/otter-ai-icon.png"
+            },
+            {
+                "h_title": "Taskade",
+                "text": "高颜值AI大纲和思维导图生成",
+                "url": "https://www.taskade.com/",
+                "imageurl": "./iconsimage/taskade-icon.png"
+            },
+            {
+                "h_title": "FormX.ai",
+                "text": "AI自动从表格和文档中提取数据",
+                "url": "https://www.formx.ai/",
+                "imageurl": "./iconsimage/formx-ai-icon.png"
+            },
+            {
+                "h_title": "Rossum.ai",
+                "text": "现代化的AI文档处理工具",
+                "url": "https://rossum.ai/",
+                "imageurl": "./iconsimage/rossum-ai-icon.png"
+            },
+            {
+                "h_title": "钉钉斜杠“/”（即将上线）",
+                "text": "钉钉最新集成了通义千问大模型的AI办公助手",
+                "url": "https://www.dingtalk.com",
+                "imageurl": "./iconsimage/dingding-slash-icon.png"
+            },
+            {
+                "h_title": "WPS AI",
+                "text": "WPS推出的AI办公助手，免费申请体验中",
+                "url": "https://ai.wps.cn/",
+                "imageurl": "./iconsimage/wps-ai-white-icon.png"
+            },
+            {
+                "h_title": "爱设计PPT",
+                "text": "AI快速生成高质量PPT",
+                "url": "https://ppt.isheji.com/",
+                "imageurl": "./iconsimage/isheji-ppt-icon.png"
+            },
+            {
+                "h_title": "美图AI PPT",
+                "text": "美图秀秀推出的免费在线AI生成PPT设计工具",
+                "url": "https://design.meitu.com/ppt/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/meitu-ai-ppt.jpg"
+            },
+            {
+                "h_title": "Chronicle",
+                "text": "AI高颜值演示文稿创建",
+                "url": "https://chroniclehq.com",
+                "imageurl": "./iconsimage/chronicle-icon.png"
+            },
+            {
+                "h_title": "SlidesAI",
+                "text": "AI快速创建演示幻灯片",
+                "url": "https://www.slidesai.io",
+                "imageurl": "./iconsimage/slides-ai-icon.png"
+            },
+            {
+                "h_title": "歌者AI",
+                "text": "彩漩PPT推出的AI PPT生成工具",
+                "url": "https://gezhe.caixuan.cc/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/gezhe-caixuan-icon.png"
+            },
+            {
+                "h_title": "ChatPPT",
+                "text": "必优科技推出的国内首个中文AI生成PPT的办公产品",
+                "url": "https://chat-ppt.com",
+                "imageurl": "./iconsimage/chatppt-icon.png"
+            },
+            {
+                "h_title": "auxi",
+                "text": "功能强大的PowerPoint AI插件",
+                "url": "https://www.auxi.ai",
+                "imageurl": "./iconsimage/auxi-icon.png"
+            },
+            {
+                "h_title": "MindShow",
+                "text": "国内独立开发者开发的输入内容自动生成演示工具",
+                "url": "https://www.mindshow.fun/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/mindshow-icon.png"
+            },
+            {
+                "h_title": "Rows",
+                "text": "集成了AI功能的在线表格处理工具",
+                "url": "https://rows.com",
+                "imageurl": "./iconsimage/rows-icon.png"
+            },
+            {
+                "h_title": "Excelly-AI",
+                "text": "将文本转换成Excel或Google Sheets公式",
+                "url": "https://excelly-ai.io/index.html",
+                "imageurl": "./iconsimage/excelly-ai-icon.png"
+            },
+            {
+                "h_title": "SheetGod",
+                "text": "BoloForms推出的AI Excel公式生成工具",
+                "url": "https://www.boloforms.com/sheetgod",
+                "imageurl": "./iconsimage/boloforms-icon.png"
+            },
+            {
+                "h_title": "Excel Formularizer",
+                "text": "AI将文本输入转换为Excel公式处理",
+                "url": "https://excelformularizer.com",
+                "imageurl": "./iconsimage/excel-formularizer-icon.png"
+            },
+            {
+                "h_title": "司马阅AI文档",
+                "text": "AI文档阅读分析工具",
+                "url": "https://smartread.cc",
+                "imageurl": "./iconsimage/smartread-icon.png"
+            },
+            {
+                "h_title": "Craft AI Assistant",
+                "text": "在线文档工具Craft推出的AI文档和创作助手",
+                "url": "https://www.craft.do/",
+                "imageurl": "./iconsimage/craft-icon.png"
+            },
+            {
+                "h_title": "字语智能",
+                "text": "一站式智能Office内容创作平台",
+                "url": "https://getgetai.com/",
+                "imageurl": "./iconsimage/getgetai-icon.png"
+            },
+            {
+                "h_title": "Humata",
+                "text": "基于GPT的AI文档分析、阅读和问答工具",
+                "url": "https://www.humata.ai",
+                "imageurl": "./iconsimage/humata-ai-icon.png"
+            },
+            {
+                "h_title": "WPS AI",
+                "text": "WPS推出的AI办公助手，免费申请体验中",
+                "url": "https://ai.wps.cn/",
+                "imageurl": "./iconsimage/wps-ai-white-icon.png"
+            },
+            {
+                "h_title": "印象AI",
+                "text": "印象笔记推出的AI知识和信息管理功能",
+                "url": "https://www.yinxiang.com/about/yxai-yxbj",
+                "imageurl": "./iconsimage/yinxiang-ai-icon.png"
+            },
+            {
+                "h_title": "Coda AI",
+                "text": "在线协作平台Coda推出的AI写作和文档助手，类似于Notion AI",
+                "url": "https://coda.io/product/ai",
+                "imageurl": "./iconsimage/coda-icon.png"
+            },
+            {
+                "h_title": "ChatDOC",
+                "text": "基于ChatGPT的文档阅读、提取、总结、摘要的工具",
+                "url": "http://chatdoc.com",
+                "imageurl": "./iconsimage/chatdoc-icon.png"
+            },
+            {
+                "h_title": "Super AI",
+                "text": "AI复杂文档自动识别处理转换",
+                "url": "https://super.ai",
+                "imageurl": "./iconsimage/super-ai-icon.png"
+            },
+            {
+                "h_title": "亿图脑图",
+                "text": "亿图脑图AI思维导图助手",
+                "url": "https://www.edrawsoft.cn/mindmaster/?AI-bot",
+                "imageurl": "./iconsimage/mindmaster-icon.png"
+            },
+            {
+                "h_title": "印象图记",
+                "text": "印象AI加持的在线思维导图工具",
+                "url": "https://www.yinxiang.com/product/evermind",
+                "imageurl": "./iconsimage/yinxiang-tuji-icon.png"
+            },
+            {
+                "h_title": "Xmind Copilot",
+                "text": "Xmind AI思维导图助手",
+                "url": "https://xmind.ai/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/xmind-icon.png"
+            },
+            {
+                "h_title": "TreeMind树图",
+                "text": "新一代AI智能思维导图",
+                "url": "https://shutu.cn/",
+                "imageurl": "./iconsimage/treemind-shutu-icon.png"
+            },
+            {
+                "h_title": "ChatMind",
+                "text": "与AI对话生成思维导图",
+                "url": "https://www.chatmind.tech/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/chatmind-icon.png"
+            },
+            {
+                "h_title": "Miro AI",
+                "text": "在线白板协作工具推出的AI功能，Beta测试中",
+                "url": "https://miro.com/mind-map",
+                "imageurl": "./iconsimage/miro-icon.png"
+            },
+            {
+                "h_title": "GitMind思乎",
+                "text": "AI驱动的免费思维导图工具",
+                "url": "https://gitmind.cn/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/gitmind-icon.png"
+            },
+            {
+                "h_title": "博思AI白板",
+                "text": "博思AI白板，AI自动生成文字和思维导图",
+                "url": "https://boardmix.cn/ai-whiteboard/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/boardmix-icon.png"
+            },
+            {
+                "h_title": "Ayoa Ultimate",
+                "text": "AI思维导图和头脑风暴工具",
+                "url": "https://www.ayoa.com/ultimate",
+                "imageurl": "./iconsimage/ayoa-icon.png"
+            },
+            {
+                "h_title": "通义听悟",
+                "text": "阿里推出的AI会议转录工具，万语千言，心领神悟",
+                "url": "https://tingwu.aliyun.com/",
+                "imageurl": "./iconsimage/tingwu-icon.png"
+            },
+            {
+                "h_title": "麦耳会记",
+                "text": "思必驰推出的AI会议助手，语音转文字、字幕同传、AI摘要",
+                "url": "https://work.duiopen.com",
+                "imageurl": "./iconsimage/work-duiopen-icon.png"
+            },
+            {
+                "h_title": "Noty.ai",
+                "text": "ChatGPT驱动的AI会议转录工具",
+                "url": "https://noty.ai",
+                "imageurl": "./iconsimage/noty-ai-icon.png"
+            },
+            {
+                "h_title": "Airgram",
+                "text": "自动会议笔记和总结的AI助手",
+                "url": "https://www.airgram.io",
+                "imageurl": "./iconsimage/airgram-icon.png"
+            },
+            {
+                "h_title": "Zapier AI",
+                "text": "Zapier推出的AI自动化集成功能",
+                "url": "https://zapier.com/ai",
+                "imageurl": "./iconsimage/zapier-icon.png"
+            },
+            {
+                "h_title": "Monica",
+                "text": "ChatGPT驱动的Chrome浏览器AI助手插件",
+                "url": "http://monica.im",
+                "imageurl": "./iconsimage/monica-icon.png"
+            },
+            {
+                "h_title": "Merlin",
+                "text": "基于ChatGPT的Chrome浏览器扩展，浏览任意网页时利用GPT",
+                "url": "https://merlin.foyer.work",
+                "imageurl": "./iconsimage/merlin-icon.png"
+            },
+            {
+                "h_title": "Raycast AI",
+                "text": "Raycast推出的Mac AI助手，智能写作、编程、回答问题等",
+                "url": "https://www.raycast.com/ai",
+                "imageurl": "./iconsimage/raycast-icon.png"
+            },
+            {
+                "h_title": "职徒简历",
+                "text": "智能简历制作软件，基于GPT的简历优化和简历代写",
+                "url": "https://www.52cv.com",
+                "imageurl": "./iconsimage/52cv-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI内容检测",
+        "list": [
+            {
+                "h_title": "GPTZero",
+                "text": "超过百万人都在用的免费AI内容检测工具",
+                "url": "https://gptzero.me/",
+                "imageurl": "./iconsimage/gptzero-icon.png"
+            },
+            {
+                "h_title": "CheckforAI",
+                "text": "免费在线检测AI内容",
+                "url": "https://checkforai.com/",
+                "imageurl": "./iconsimage/checkforai-icon.png"
+            },
+            {
+                "h_title": "StudyCorgi ChatGPT Detector",
+                "text": "StudyCorgi推出的帮助学生检测ChatGPT的工具",
+                "url": "https://studycorgi.com/free-writing-tools/chat-gpt-detector/",
+                "imageurl": "./iconsimage/studycorgi-icon.png"
+            },
+            {
+                "h_title": "AISEO AI Content Detector",
+                "text": "AISEO推出的AI内容检测器",
+                "url": "https://aiseo.ai/tools/ai-content-detector.html",
+                "imageurl": "./iconsimage/aiseo-ai-icon.png"
+            },
+            {
+                "h_title": "Writecream AI Content Detector",
+                "text": "Writecream推出的AI内容检测工具",
+                "url": "https://www.writecream.com/ai-content-detector/",
+                "imageurl": "./iconsimage/writecream-icon.png"
+            },
+            {
+                "h_title": "Smodin AI Content Detector",
+                "text": "多语种AI内容检测工具",
+                "url": "https://smodin.io/ai-content-detector",
+                "imageurl": "./iconsimage/smodin-icon.png"
+            },
+            {
+                "h_title": "Sapling AI Content Detector",
+                "text": "Sapling.ai推出的免费在线AI内容检测工具",
+                "url": "https://sapling.ai/utilities/ai-content-detector",
+                "imageurl": "./iconsimage/sapling-ai-icon.png"
+            },
+            {
+                "h_title": "GPT Detector",
+                "text": "在线检查文本是否由GPT-3或ChatGPT生成",
+                "url": "https://x.writefull.com/gpt-detector",
+                "imageurl": "./iconsimage/writefull-icon.png"
+            },
+            {
+                "h_title": "AI Content Detector",
+                "text": "Writer推出的AI内容检测工具",
+                "url": "https://writer.com/ai-content-detector/",
+                "imageurl": "./iconsimage/writer-icon.png"
+            },
+            {
+                "h_title": "Originality.AI",
+                "text": "原创度和AI内容检测",
+                "url": "https://originality.ai/",
+                "imageurl": "./iconsimage/originality-ai-icon.png"
+            },
+            {
+                "h_title": "CopyLeaks",
+                "text": "AI内容检测和分级",
+                "url": "https://copyleaks.com/",
+                "imageurl": "./iconsimage/copyleaks-icon.png"
+            },
+            {
+                "h_title": "Winston AI",
+                "text": "强大的AI内容检测解决方案",
+                "url": "https://gowinston.ai/",
+                "imageurl": "./iconsimage/winston-ai-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI提示指令",
+        "list": [
+            {
+                "h_title": "FlowGPT",
+                "text": "ChatGPT指令大全",
+                "url": "https://flowgpt.com/",
+                "imageurl": "./iconsimage/flowgpt-icon.png"
+            },
+            {
+                "h_title": "Stable Diffusion Prompt Book",
+                "text": "OpenArt推出的针对Stable Diffusion指令的手册",
+                "url": "https://openart.ai/promptbook",
+                "imageurl": "./iconsimage/openart-ai-icon.png"
+            },
+            {
+                "h_title": "PromptHero",
+                "text": "发现Stable Diffusion、ChatGPT和Midjourney的提示用语",
+                "url": "https://prompthero.com/",
+                "imageurl": "./iconsimage/prompt-hero-icon.png"
+            },
+            {
+                "h_title": "ClickPrompt",
+                "text": "专为 Prompt 编写者设计的工具",
+                "url": "https://www.clickprompt.org/zh-CN/",
+                "imageurl": "./iconsimage/clickprompt-icon.png"
+            },
+            {
+                "h_title": "PublicPrompts",
+                "text": "免费高质量的Prompts集合",
+                "url": "https://publicprompts.art/",
+                "imageurl": "./iconsimage/public-prompts-icon.png"
+            },
+            {
+                "h_title": "AIPRM",
+                "text": "主要针对于SEO和SaaS文案写作的ChatGPT Prompts浏览器扩展",
+                "url": "https://www.aiprm.com/",
+                "imageurl": "./iconsimage/aiprm-icon.png"
+            },
+            {
+                "h_title": "MJ Prompt Tool",
+                "text": "MidJourney Prompt帮助工具",
+                "url": "https://prompt.noonshot.com/",
+                "imageurl": "./iconsimage/noonshot-icon.png"
+            },
+            {
+                "h_title": "Visual Prompt Builder",
+                "text": "可视化AI提示语选择和搭建",
+                "url": "https://tools.saxifrage.xyz/prompt",
+                "imageurl": "./iconsimage/visual-prompt-builer-icon.png"
+            },
+            {
+                "h_title": "ChatGPT Prompt Genius",
+                "text": "免费开源的ChatGPT Prompt浏览器扩展",
+                "url": "https://github.com/benf2004/ChatGPT-Prompt-Genius",
+                "imageurl": "./iconsimage/chatgpt-prompt-genius-icon.png"
+            },
+            {
+                "h_title": "PromptBase",
+                "text": "AI Prompts集合市场",
+                "url": "https://promptbase.com/",
+                "imageurl": "./iconsimage/promptbase-icon.png"
+            },
+            {
+                "h_title": "PromptVine",
+                "text": "ChatGPT Prompts和应用",
+                "url": "https://promptvine.com/",
+                "imageurl": "./iconsimage/promptvine-icon.png"
+            },
+            {
+                "h_title": "Awesome ChatGPT Prompts",
+                "text": "ChatGPT Prompts集合",
+                "url": "https://prompts.chat/",
+                "imageurl": "./iconsimage/awesome-chatgpt-prompt-icon.png"
+            },
+            {
+                "h_title": "Learning Prompt",
+                "text": "免费的 Prompt Engineering 教程（中文开源）",
+                "url": "https://learningprompt.wiki/",
+                "imageurl": "./iconsimage/learning-prompt-icon.png"
+            },
+            {
+                "h_title": "一起玩Ai",
+                "text": "免费高质量提示词社区，1000+可视化提示词工具",
+                "url": "https://175ai.cn/?refer=ai-bot.cn",
+                "imageurl": "./iconsimage/175ai-cn-logo.png"
+            },
+            {
+                "h_title": "Generrated",
+                "text": "超过7480个基于DALL·E 2的图片生成指令语句",
+                "url": "https://generrated.com",
+                "imageurl": "./iconsimage/generrated-icon.png"
+            },
+            {
+                "h_title": "Snack Prompt",
+                "text": "探索最新的ChatGPT语义提示词",
+                "url": "https://snackprompt.com/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/snack-prompt-icon.png"
+            },
+            {
+                "h_title": "提示工程指南",
+                "text": "免费开源的提示工程指南，GitHub标星超3万",
+                "url": "https://www.promptingguide.ai/zh",
+                "imageurl": "./iconsimage/prompt-engineering-guide-icon.png"
+            },
+            {
+                "h_title": "绘AI",
+                "text": "AI绘画提示词分享平台",
+                "url": "https://www.ai016.com",
+                "imageurl": "./iconsimage/ai016-icon.png"
+            },
+            {
+                "h_title": "ChatGPT Shortcut",
+                "text": "开源的简单易用的ChatGPT快捷指令，让生产力加倍！",
+                "url": "https://www.aishort.top",
+                "imageurl": "./iconsimage/chatgpt-shortcut-icon.png"
+            },
+            {
+                "h_title": "词魂",
+                "text": "AIGC精品提示词库",
+                "url": "https://icihun.com/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/icihun-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI学习网站",
+        "list": [
+            {
+                "h_title": "Coursera",
+                "text": "学习机器学习、深度学习和人工智能",
+                "url": "https://www.coursera.org/collections/best-machine-learning-ai",
+                "imageurl": "./iconsimage/coursera-icon.png"
+            },
+            {
+                "h_title": "Kaggle",
+                "text": "机器学习和数据科学社区",
+                "url": "https://www.kaggle.com/",
+                "imageurl": "./iconsimage/kaggle-icon.png"
+            },
+            {
+                "h_title": "Elements of AI",
+                "text": "免费在线AI通识学习",
+                "url": "https://www.elementsofai.com/",
+                "imageurl": "./iconsimage/elements-of-ai-icon.png"
+            },
+            {
+                "h_title": "DeepLearning.AI",
+                "text": "深度学习和人工智能学习平台",
+                "url": "https://www.deeplearning.ai/",
+                "imageurl": "./iconsimage/deeplearning-ai-icon.png"
+            },
+            {
+                "h_title": "动手学深度学习",
+                "text": "动手学深度学习的教材和课程",
+                "url": "https://zh.d2l.ai/",
+                "imageurl": "./iconsimage/d2l-icon.png"
+            },
+            {
+                "h_title": "MachineLearningMastery",
+                "text": "免费在线学习机器学习，从基础到高级",
+                "url": "https://machinelearningmastery.com/start-here/",
+                "imageurl": "./iconsimage/machinelearningmastery-icon.png"
+            },
+            {
+                "h_title": "神经网络入门",
+                "text": "Brilliant推出的Introduction to Neural Networks课程",
+                "url": "https://brilliant.org/courses/intro-neural-networks/",
+                "imageurl": "./iconsimage/brilliant-intro-neural-networks.png"
+            },
+            {
+                "h_title": "Udacity AI学院",
+                "text": "Udacity推出的School of AI，从入门到高级",
+                "url": "https://www.udacity.com/school/school-of-ai",
+                "imageurl": "./iconsimage/udacity-icon.png"
+            },
+            {
+                "h_title": "阿里云AI学习路线",
+                "text": "阿里云推出的人工智能学习路线（学+测）",
+                "url": "https://developer.aliyun.com/learning/roadmap/ai",
+                "imageurl": "./iconsimage/aliyun-icon.png"
+            },
+            {
+                "h_title": "Google AI",
+                "text": "Google AI学习平台",
+                "url": "https://ai.google/",
+                "imageurl": "./iconsimage/google-ai-icon.png"
+            },
+            {
+                "h_title": "HuggingFace",
+                "text": "AI开发社区",
+                "url": "https://huggingface.co/",
+                "imageurl": "./iconsimage/huggingface-icon.png"
+            },
+            {
+                "h_title": "飞桨AI Studio",
+                "text": "人工智能学习实训社区",
+                "url": "https://aistudio.baidu.com/",
+                "imageurl": "./iconsimage/paddlepaddle-icon.png"
+            },
+            {
+                "h_title": "fast.ai",
+                "text": "免费开源的深度学习和AI学习网站，让每个人都参与到AI！",
+                "url": "https://www.fast.ai",
+                "imageurl": "./iconsimage/fast-ai-icon.png"
+            },
+            {
+                "h_title": "ML for Beginners",
+                "text": "微软推出的免费开源的机器学习课程，GitHub标星4万+",
+                "url": "https://microsoft.github.io/ML-For-Beginners",
+                "imageurl": "./iconsimage/ml-for-beginners-icon.png"
+            },
+            {
+                "h_title": "AI大学堂",
+                "text": "科大讯飞推出的AI大学堂，学习AI、走进未来",
+                "url": "https://www.aidaxue.com",
+                "imageurl": "./iconsimage/aidaxue-icon.png"
+            },
+            {
+                "h_title": "ShowMeAI知识社区",
+                "text": "人工智能领域的资料库和学习社区",
+                "url": "https://www.showmeai.tech/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/showmeai-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI开发框架",
+        "list": [
+            {
+                "h_title": "TensorFlow",
+                "text": "Google推出的机器学习和人工智能开源库",
+                "url": "https://www.tensorflow.org/?hl=zh-cn",
+                "imageurl": "./iconsimage/tensorflow-icon.png"
+            },
+            {
+                "h_title": "PyTorch",
+                "text": "开源机器学习框架",
+                "url": "https://pytorch.org/",
+                "imageurl": "./iconsimage/pytorch-icon.png"
+            },
+            {
+                "h_title": "飞桨PaddlePaddle",
+                "text": "开源深度学习平台",
+                "url": "https://www.paddlepaddle.org.cn/",
+                "imageurl": "./iconsimage/paddlepaddle-icon.png"
+            },
+            {
+                "h_title": "Apache MXNet",
+                "text": "免费开源的深度学习框架",
+                "url": "https://mxnet.apache.org/",
+                "imageurl": "./iconsimage/apache-mxnet-icon.png"
+            },
+            {
+                "h_title": "Scikit-learn",
+                "text": "Python机器学习库",
+                "url": "https://scikit-learn.org/",
+                "imageurl": "./iconsimage/scikit-learn-icon.png"
+            },
+            {
+                "h_title": "Keras",
+                "text": "Python版本的TensorFlow深度学习API",
+                "url": "https://keras.io/",
+                "imageurl": "./iconsimage/keras-icon.png"
+            },
+            {
+                "h_title": "Caffe",
+                "text": "UC伯克利研究推出的深度学习框架",
+                "url": "https://caffe.berkeleyvision.org/",
+                "imageurl": "./iconsimage/caffe-framework.png"
+            },
+            {
+                "h_title": "NumPy",
+                "text": "Python科学计算必备的包",
+                "url": "https://numpy.org/",
+                "imageurl": "./iconsimage/numpy-icon.png"
+            },
+            {
+                "h_title": "昇思MindSpore",
+                "text": "华为开源自研AI深度学习框架",
+                "url": "https://www.mindspore.cn",
+                "imageurl": "./iconsimage/mindspore-icon.png"
+            },
+            {
+                "h_title": "Vercel AI SDK",
+                "text": "Vercel开源的搭建AI聊天机器人的开发套件，支持React/Svelte/Vue等框架",
+                "url": "https://sdk.vercel.ai/docs",
+                "imageurl": "./iconsimage/vercel-icon.png"
+            },
+            {
+                "h_title": "DL4J",
+                "text": "开源的使用JVM部署和训练深度学习模型的套件",
+                "url": "https://deeplearning4j.konduit.ai",
+                "imageurl": "./iconsimage/dl4j-icon.png"
+            },
+            {
+                "h_title": "JAX",
+                "text": "Google推出的用于变换数值函数的机器学习框架",
+                "url": "https://jax.readthedocs.io/en/latest",
+                "imageurl": "./iconsimage/google-jax-icon.png"
+            },
+            {
+                "h_title": "NLTK",
+                "text": "Python自然语言处理工具包",
+                "url": "https://www.nltk.org",
+                "imageurl": "./iconsimage/nltk-icon.png"
+            },
+            {
+                "h_title": "LangChain",
+                "text": "开发由语言模型驱动的应用程序的框架",
+                "url": "https://docs.langchain.com/docs",
+                "imageurl": "./iconsimage/langchain-icon.png"
+            },
+            {
+                "h_title": "Lightning AI",
+                "text": "快速训练、部署和开发人工智能产品的深度学习框架，由Pytorch Lightning团队推出",
+                "url": "https://lightning.ai/?ref=ai-bot.cn",
+                "imageurl": "./iconsimage/lightning-ai-icon.png"
+            },
+            {
+                "h_title": "Leap",
+                "text": "将AI快速集成到你自己的应用中",
+                "url": "https://www.tryleap.ai/",
+                "imageurl": "./iconsimage/tryleap-ai-icon.png"
+            }
+        ]
+    },
+    {
+        "title": "AI训练模型",
+        "list": [
+            {
+                "h_title": "悟道",
+                "text": "智源“悟道”大模型，中国首个+世界最大人工智能大模型",
+                "url": "https://www.baai.ac.cn/portal/article/index/cid/49/id/518.html",
+                "imageurl": "./iconsimage/wudao-icon.png"
+            },
+            {
+                "h_title": "Stable Diffusion",
+                "text": "Stability AI推出的文本到图像生成AI模型",
+                "url": "http://beta.dreamstudio.ai/",
+                "imageurl": "./iconsimage/stability-ai-icon.png"
+            },
+            {
+                "h_title": "GPT-4",
+                "text": "OpenAI旗下最新的GPT-4模型",
+                "url": "https://openai.com/product/gpt-4",
+                "imageurl": "./iconsimage/openai-gpt-model.png"
+            },
+            {
+                "h_title": "DALL·E 2",
+                "text": "OpenAI旗下DALL·E 2模型",
+                "url": "https://openai.com/product/dall-e-2",
+                "imageurl": "./iconsimage/dall-e-2-icon.png"
+            },
+            {
+                "h_title": "Codex",
+                "text": "OpenAI旗下AI代码生成训练模型",
+                "url": "https://openai.com/blog/openai-codex",
+                "imageurl": "./iconsimage/openai-codex-icon.png"
+            },
+            {
+                "h_title": "文心大模型",
+                "text": "百度推出的产业级知识增强大模型",
+                "url": "https://wenxin.baidu.com/",
+                "imageurl": "./iconsimage/paddlepaddle-icon.png"
+            },
+            {
+                "h_title": "BLOOM",
+                "text": "HuggingFace推出的大型语言模型（LLM）",
+                "url": "https://huggingface.co/docs/transformers/model_doc/bloom",
+                "imageurl": "./iconsimage/bloom-icon.png"
+            },
+            {
+                "h_title": "阿里巴巴M6",
+                "text": "阿里巴巴达摩院推出的超大规模中文预训练模型(M6)",
+                "url": "https://m6.aliyun.com/#/",
+                "imageurl": "./iconsimage/aliyun-icon.png"
+            },
+            {
+                "h_title": "Gen-2",
+                "text": "Runway最新推出的AI视频生成模型",
+                "url": "https://research.runwayml.com/gen2",
+                "imageurl": "./iconsimage/runwayml-icon.png"
+            },
+            {
+                "h_title": "PaLM",
+                "text": "PaLM：Google推出的超过5400亿参数的大语言模型",
+                "url": "https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.htm",
+                "imageurl": "./iconsimage/google-icon.png"
+            },
+            {
+                "h_title": "LLaMA",
+                "text": "Meta（Facebook）推出的AI大语言模型",
+                "url": "https://github.com/facebookresearch/llama",
+                "imageurl": "./iconsimage/meta-icon.png"
+            },
+            {
+                "h_title": "Lobe",
+                "text": "简单免费的机器学习模型训练工具",
+                "url": "https://www.lobe.ai/",
+                "imageurl": "./iconsimage/lobe-ai-icon.png"
+            },
+            {
+                "h_title": "Scale AI",
+                "text": "AI机器学习标注训练平台",
+                "url": "https://scale.com/",
+                "imageurl": "./iconsimage/scale-ai-icon.png"
+            },
+            {
+                "h_title": "Replicate",
+                "text": "在线运行开源机器学习模型",
+                "url": "https://replicate.com/",
+                "imageurl": "./iconsimage/replicate-icon.png"
+            },
+            {
+                "h_title": "Imagen",
+                "text": "Google AI文字到图像生成模型",
+                "url": "https://imagen.research.google/",
+                "imageurl": "./iconsimage/google-icon.png"
+            },
+            {
+                "h_title": "Evidently AI",
+                "text": "开源的机器学习模型监测和测试工具",
+                "url": "https://www.evidentlyai.com/",
+                "imageurl": "./iconsimage/evidently-ai-icon.png"
+            },
+            {
+                "h_title": "Auto-GPT",
+                "text": "爆火的实现GPT-4完全自主的实验性开源项目，GitHub超10万星",
+                "url": "https://agpt.co",
+                "imageurl": "./iconsimage/autogpt-icon.png"
+            },
+            {
+                "h_title": "AgentGPT",
+                "text": "在浏览器中组装、配置和部署自主人工智能的开源项目",
+                "url": "https://agentgpt.reworkd.ai",
+                "imageurl": "./iconsimage/agentgpt-icon.png"
+            },
+            {
+                "h_title": "通义千问",
+                "text": "阿里巴巴最新推出的类ChatGPT响应人类指令的大模型",
+                "url": "https://tongyi.aliyun.com",
+                "imageurl": "./iconsimage/tongyi-aliyun-icon.png"
+            },
+            {
+                "h_title": "Gradio",
+                "text": "开源的搭建机器学习模型UI界面的Python库",
+                "url": "https://gradio.app",
+                "imageurl": "./iconsimage/gradio-icon.png"
+            },
+            {
+                "h_title": "MOSS",
+                "text": "复旦大学团队开发的对话式大型语言模型",
+                "url": "https://moss.fastnlp.top",
+                "imageurl": "./iconsimage/moss-icon.png"
+            },
+            {
+                "h_title": "讯飞星火认知大模型",
+                "text": "科大讯飞推出的类ChatGPT的讯飞星火认知大模型",
+                "url": "http://xinghuo.xfyun.cn",
+                "imageurl": "./iconsimage/xinghuo-xfyun-icon.png"
+            },
+            {
+                "h_title": "DeepFloyd IF",
+                "text": "StabilityAI旗下的DeepFloyd团队推出的图片生成模型",
+                "url": "https://deepfloyd.ai/deepfloyd-if",
+                "imageurl": "./iconsimage/deepfloyd-icon.png"
+            },
+            {
+                "h_title": "ChatGLM",
+                "text": "开源的、支持中英双语的1300亿参数的对话语言模型",
+                "url": "https://chatglm.cn",
+                "imageurl": "./iconsimage/chatglm-icon.png"
+            },
+            {
+                "h_title": "商量SenseChat",
+                "text": "商汤科技推出的类ChatGPT的人工智能大语言模型",
+                "url": "https://chat.sensetime.com/wb",
+                "imageurl": "./iconsimage/sensechat-icon.png"
+            },
+            {
+                "h_title": "天工AI助手",
+                "text": "昆仑万维与奇点智源联合研发的对标ChatGPT的大语言模型",
+                "url": "https://tiangong.kunlun.com",
+                "imageurl": "./iconsimage/tiangong-kunlun-icon.png"
+            },
+            {
+                "h_title": "Cohere",
+                "text": "构建AI产品的大语言模型平台",
+                "url": "https://cohere.com",
+                "imageurl": "./iconsimage/cohere-icon.png"
+            },
+            {
+                "h_title": "序列猴子",
+                "text": "出门问问推出的一款超大规模的语言模型",
+                "url": "https://openapi.mobvoi.com/index",
+                "imageurl": "./iconsimage/openapi-mobvoi-icon.png"
+            },
+            {
+                "h_title": "魔搭社区",
+                "text": "阿里达摩院推出的AI模型社区，超过300+开源AI模型",
+                "url": "https://www.modelscope.cn",
+                "imageurl": "./iconsimage/modelscope-icon.png"
+            },
+            {
+                "h_title": "Lamini",
+                "text": "低门槛快速定制大语言模型的引擎",
+                "url": "https://lamini.ai",
+                "imageurl": "./iconsimage/lamini-ai-icon.png"
+            },
+            {
+                "h_title": "StableLM",
+                "text": "Stability AI推出的开源的类ChatGPT大语言模型",
+                "url": "https://github.com/Stability-AI/StableLM",
+                "imageurl": "./iconsimage/stablelm-icon.png"
+            },
+            {
+                "h_title": "Civitai",
+                "text": "AI艺术生成社区和模型共享中心",
+                "url": "https://civitai.com",
+                "imageurl": "./iconsimage/civitai-icon.png"
+            },
+            {
+                "h_title": "DeepSpeed",
+                "text": "微软开源的低成本实现类似ChatGPT的模型训练",
+                "url": "https://www.deepspeed.ai",
+                "imageurl": "./iconsimage/deepspeed-icon.png"
+            },
+            {
+                "h_title": "PaLM 2",
+                "text": "Google的下一代大语言模型，超过3400亿参数",
+                "url": "https://ai.google/discover/palm2",
+                "imageurl": "./iconsimage/palm2-icon.png"
+            },
+            {
+                "h_title": "OpenBMB",
+                "text": "清华团队支持发起的大规模预训练语言模型库与相关工具",
+                "url": "https://www.openbmb.org/home",
+                "imageurl": "./iconsimage/openbmb-icon.png"
+            },
+            {
+                "h_title": "HuggingFace",
+                "text": "AI开发社区",
+                "url": "https://huggingface.co",
+                "imageurl": "./iconsimage/huggingface-icon.png"
+            },
+            {
+                "h_title": "StableVicuna",
+                "text": "第一个通过RLHF训练的大规模开源聊天机器人",
+                "url": "https://chat.lmsys.org",
+                "imageurl": "./iconsimage/stablevicuna-icon.png"
+            },
+            {
+                "h_title": "Watsonx.ai",
+                "text": "IBM推出的企业级生成式人工智能和机器学习平台",
+                "url": "https://www.ibm.com/products/watsonx-ai",
+                "imageurl": "./iconsimage/watsonx-ai-icon.png"
+            }
+        ]
+    }
+]
