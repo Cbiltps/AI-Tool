@@ -7,6 +7,8 @@
         button-text="搜索"
         size="large"
         search-button
+        @search="doSearch"
+        v-model="formSearchParams.appName"
       />
     </div>
     <a-list
@@ -36,10 +38,13 @@ import { listAppVoByPageUsingPost } from "@/api/appController";
 import message from "@arco-design/web-vue/es/message";
 import { REVIEW_STATUS_ENUM } from "@/constant/app";
 
+const formSearchParams = ref<API.AppQueryRequest>({});
+
 // 初始化搜索条件（不应该被修改）
 const initSearchParams = {
   current: 1,
   pageSize: 12,
+  appName: "",
 };
 
 const searchParams = ref<API.AppQueryRequest>({
@@ -63,6 +68,16 @@ const loadData = async () => {
   } else {
     message.error("获取数据失败，" + res.data.message);
   }
+};
+
+/**
+ * 执行搜索
+ */
+const doSearch = (appName: string) => {
+  searchParams.value = {
+    ...initSearchParams,
+    ...formSearchParams.value,
+  };
 };
 
 /**
