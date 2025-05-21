@@ -56,6 +56,24 @@ public enum AppTypeEnum {
     }
 
     /**
+     * 根据 name 获取枚举
+     *
+     * @param name
+     * @return
+     */
+    public static Integer getValueByName(String name) {
+        if (name == null || name.isEmpty()) {
+            return null;
+        }
+        for (AppTypeEnum anEnum : AppTypeEnum.values()) {
+            if (anEnum.text.equals(name)) {
+                return anEnum.getValue();
+            }
+        }
+        return null;
+    }
+
+    /**
      * 获取值列表
      *
      * @return

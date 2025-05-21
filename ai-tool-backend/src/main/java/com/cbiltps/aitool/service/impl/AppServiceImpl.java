@@ -153,7 +153,7 @@ public class AppServiceImpl extends ServiceImpl<AppMapper, App> implements AppSe
             user = userService.getById(userId);
         }
         UserVO userVO = userService.getUserVO(user);
-//        appVO.setUser(userVO);
+        appVO.setUser(userVO);
         // endregion
         return appVO;
     }
